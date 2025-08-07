@@ -1,0 +1,841 @@
+,Brand,Color,RAM,ROM,mAh Battery,Display_Size_Inch,Total_Ratings,Rating,N0_of_Reviews,Total_Camera_Resolution,Price,Discount,Warrenty_in_Years,Rear_01,Rear_02,Front_Camera
+0,MOTOROLA Edge 60 Pro,Pantone Sparkling Grape,8 GB,256 GB,6000 mAh,4.4,"4,063",4.4,448,50MP + 50MP + 10MP | 50MP Front Camera,"₹29,999",18%,1 Year,50,50,50
+1,vivo V50 5G,Rose Red,8 GB,256 GB,6000 mAh,4.5,"4,605",4.5,442,50MP + 50MP | 50MP Front Camera,"₹36,999",13%,1 Year,50,50,50
+2,realme 14 Pro+ 5G,Suede Grey,12 GB,512 GB,6000 mAh,4.4,"4,802",4.4,612,50MP + 50MP + 8MP | 32MP Front Camera,"₹37,999",95%,1 Year,50,50,32
+3,realme GT 6,Fluid Silver,16 GB,512 GB,5500 mAh,4.5,"4,902",4.5,566,50MP + 8MP + 50MP | 32MP Front Camera,"₹36,999",28%,1 Year,50,8,32
+4,Apple iPhone 13,Starlight,,128 GB,,4.6,,4.6,907,12MP + 12MP | 12MP Front Camera,"₹44,999",09%,,12,12,12
+5,SAMSUNG Galaxy S24+ 5G,Cobalt Violet,12 GB,256 GB,4900 mAh,4.5,"9,333",4.5,717,50MP + 10MP + 12MP | 12MP Front Camera,"₹52,999",47%,1 Year,50,10,12
+6,vivo T3 Ultra,Frost Green,12 GB,256 GB,5500 mAh,4.5,"8,342",4.5,667,50MP + 8MP | 50MP Front Camera,"₹31,999",20%,1 Year,50,8,50
+7,OnePlus 13R 5G,Astral Trail,16 GB,512 GB,6000 mAh,4.5,,4.5,32,50MP Rear Camera,"₹43,497",16%,,50,,
+8,realme 14 Pro+ 5G,Pearl White,12 GB,512 GB,6000 mAh,4.4,"4,802",4.4,612,50MP + 50MP + 8MP | 32MP Front Camera,"₹37,999",95%,1 Year,50,50,32
+9,vivo V50 5G,Titanium Grey,8 GB,256 GB,6000 mAh,4.5,"4,605",4.5,442,50MP + 50MP | 50MP Front Camera,"₹36,999",13%,1 Year,50,50,50
+10,Apple iPhone 13,Midnight,,128 GB,,4.6,,4.6,907,12MP + 12MP | 12MP Front Camera,"₹44,999",09%,,12,12,12
+11,OnePlus 13R 5G,Nebula Noir,16 GB,512 GB,6000 mAh,4.5,,4.5,32,50MP Rear Camera,"₹43,631",16%,,50,,
+12,vivo T3 Ultra,Lunar Gray,8 GB,256 GB,5500 mAh,4.5,"18,225",4.5,546,50MP + 8MP | 50MP Front Camera,"₹29,999",21%,1 Year,50,8,50
+13,Apple iPhone 15,Pink,,128 GB,,4.6,,4.6,300,48MP + 12MP | 12MP Front Camera,"₹64,900",07%,,48,12,12
+14,vivo V50 5G,Rose Red,8 GB,128 GB,6000 mAh,4.5,"4,605",4.5,442,50MP + 50MP | 50MP Front Camera,"₹34,999",12%,1 Year,50,50,50
+15,IQOO 12 5G,Legend,16 GB,512 GB,5000 mAh,4.5,,4.5,1,50MP Rear Camera,"₹49,990",23%,1 Year,50,,
+16,OnePlus 13R 5G,Nebula Noir,12 GB,256 GB,6000 mAh,4.5,"1,521",4.5,126,50MP Rear Camera,"₹39,749",11%,,50,,
+17,IQOO 12 5G,Alpha,12 GB,256 GB,5000 mAh,4.6,,4.6,4,50MP Rear Camera,"₹48,870",18%,1 Year,50,,
+18,MOTOROLA Edge 60 Pro,Pantone Dazzling Blue,12 GB,256 GB,6000 mAh,4.4,"2,031",4.4,249,50MP + 50MP + 10MP | 50MP Front Camera,"₹33,999",17%,1 Year,50,50,50
+19,OPPO Reno13 5G,Ivory White,8 GB,128 GB,5600 mAh,4.4,"3,311",4.4,418,50MP + 8MP + 2MP | 50MP Front Camera,"₹35,999",14%,1 Year,50,8,50
+20,SAMSUNG Galaxy S25 5G,Navy,12 GB,256 GB,4000 mAh,4.6,"1,776",4.6,243,50MP + 10MP + 12MP | 12MP Front Camera,,,1 Year,50,10,12
+21,vivo V40 Pro 5G,Ganges Blue,12 GB,512 GB,5500 mAh,4.5,,4.5,99,50MP + 50MP + 50MP | 50MP Front Camera,"₹49,999",28%,1 Year,50,50,50
+22,SAMSUNG Galaxy A36 5G,Awesome Lavender,12 GB,256 GB,5000 mAh,4.2,,4.2,8,50MP + 8MP | 12MP Front Camera,"₹36,999",11%,1 Year,50,8,12
+23,13 pro,Ceramic Black,12 GB,256 GB,4820 mAh,4.2,,4.2,5,50MP Rear Camera,"₹49,990",44%,,50,,
+24,vivo V50 5G,Starry Night,8 GB,256 GB,6000 mAh,4.5,"4,605",4.5,442,50MP + 50MP | 50MP Front Camera,"₹36,999",13%,1 Year,50,50,50
+25,OPPO Reno13 5G,Luminous Blue,8 GB,256 GB,5600 mAh,4.4,"3,311",4.4,418,50MP + 8MP + 2MP | 50MP Front Camera,"₹37,999",13%,1 Year,50,8,50
+26,Apple iPhone 14,Starlight,,128 GB,,4.6,,4.6,673,12MP + 12MP | 12MP Front Camera,"₹54,999",08%,,12,12,12
+27,realme GT 6,Razor Green,16 GB,512 GB,5500 mAh,4.5,"4,902",4.5,566,50MP + 8MP + 50MP | 32MP Front Camera,"₹36,999",28%,1 Year,50,8,32
+28,SAMSUNG Galaxy A56 5G,Awesome Graphite,12 GB,256 GB,5000 mAh,4.4,,4.4,16,50MP + 12MP + 5MP | 12MP Front Camera,"₹44,999",15%,1 Year,50,12,12
+29,Motorola Edge 50 Ultra 5G,Nordic Wood,12 GB,512 GB,4500 mAh,4.3,"2,739",4.3,305,50MP + 50MP + 64MP | 50MP Front Camera,"₹49,999",23%,1 Year,50,50,50
+30,vivo V40 Pro 5G,Titanium Grey,12 GB,512 GB,5500 mAh,4.5,,4.5,99,50MP + 50MP + 50MP | 50MP Front Camera,"₹55,999",98%,1 Year,50,50,50
+31,vivo V50 5G,Rose Red,12 GB,512 GB,6000 mAh,4.5,"1,333",4.5,128,50MP + 50MP | 50MP Front Camera,"₹40,999",16%,1 Year,50,50,50
+32,vivo V30 Pro 5G,Classic Black,12 GB,512 GB,5000 mAh,4.5,"2,320",4.5,262,50MP + 50MP + 50MP | 50MP Front Camera,"₹39,999",23%,1 Year,50,50,50
+33,IQOO 12 5G,Alpha,16 GB,512 GB,5000 mAh,4.5,,4.5,1,50MP Rear Camera,"₹49,890",23%,1 Year,50,,
+34,Apple iPhone 16e,Black,,128 GB,,4.6,,4.6,51,48MP Rear Camera | 12MP Front Camera,"₹54,900",08%,,48,,12
+35,Apple iPhone 14,Midnight,,128 GB,,4.6,,4.6,673,12MP + 12MP | 12MP Front Camera,"₹54,999",08%,,12,12,12
+36,Google Pixel 8a,Obsidian,8 GB,128 GB,4404 mAh,4.3,"5,746",4.3,488,64MP + 13MP | 13MP Front Camera,"₹37,999",28%,1 Year,64,13,13
+37,REDMI Note,Titan Black,12 GB,512 GB,6200 mAh,4.5,,4.5,0,50MP + 50MP + 8MP | 20MP Front Camera,"₹35,999",10%,1 Year,50,50,20
+38,Xiaomi 14 CIVI,Cruise Blue,8 GB,256 GB,4700 mAh,4.3,"1,403",4.3,175,50MP Rear Camera | 32MP + 32MP Dual Front Camera,"₹36,999",32%,1 Year,50,,
+39,vivo V50 5G Elite Edition,Rose Red,12 GB,512 GB,6000 mAh,4.2,,4.2,3,50MP + 50MP | 50MP Front Camera,"₹41,999",17%,1 Year,50,50,50
+40,OnePlus 13R 5g,Astral Trail,12 GB,256 GB,6000 mAh,4.5,"1,521",4.5,126,50MP Rear Camera,"₹39,605",11%,,50,,
+41,Apple iPhone 16,Black,,128 GB,,4.6,"16,639",4.6,704,48MP + 12MP | 12MP Front Camera,"₹69,999",12%,,48,12,12
+42,SAMSUNG Galaxy S24 5G,Onyx Black,8 GB,128 GB,4000 mAh,4.6,"4,050",4.6,292,50MP + 10MP + 12MP | 12MP Front Camera,"₹49,999",33%,1 Year,50,10,12
+43,SAMSUNG Galaxy S24 FE 5G,Mint,8 GB,256 GB,4700 mAh,4.5,"7,492",4.5,631,50MP + 12MP | 10MP Front Camera,"₹50,999",22%,1 Year,50,12,10
+44,IQOO 12 5G,Legend,12 GB,256 GB,5000 mAh,4.6,,4.6,4,50MP Rear Camera,"₹48,800",18%,1 Year,50,,
+45,SAMSUNG Galaxy S25 5G,Icyblue,12 GB,512 GB,4000 mAh,4.6,"1,776",4.6,243,50MP + 10MP + 12MP | 12MP Front Camera,,,1 Year,50,10,12
+46,Apple iPhone 16,Ultramarine,,256 GB,,4.6,"16,639",4.6,704,48MP + 12MP | 12MP Front Camera,"₹79,999",11%,,48,12,12
+47,SAMSUNG Galaxy A56 5G,Awesome Olive,8 GB,256 GB,5000 mAh,4.3,,4.3,22,50MP + 12MP + 5MP | 12MP Front Camera,"₹41,999",14%,1 Year,50,12,12
+48,Apple iPhone 16e,Black,,256 GB,,4.6,,4.6,51,48MP Rear Camera | 12MP Front Camera,"₹64,900",07%,,48,,12
+49,SAMSUNG Galaxy S24+ 5G,Onyx Black,12 GB,256 GB,4900 mAh,4.5,"9,333",4.5,717,50MP + 10MP + 12MP | 12MP Front Camera,"₹52,999",47%,1 Year,50,10,12
+50,Xiaomi 14 CIVI,Shadow Black,12 GB,512 GB,4700 mAh,4.3,,4.3,60,50MP Rear Camera | 32MP + 32MP Dual Front Camera,"₹38,999",35%,1 Year,50,,
+51,SAMSUNG Galaxy A56 5G,Awesome Olive,8 GB,128 GB,5000 mAh,4.3,,4.3,22,50MP + 12MP + 5MP | 12MP Front Camera,"₹38,999",15%,1 Year,50,12,12
+52,Apple iPhone 15,Blue,,128 GB,,4.6,,4.6,300,48MP + 12MP | 12MP Front Camera,"₹64,900",07%,,48,12,12
+53,SAMSUNG Galaxy S24 FE 5G,Blue,8 GB,128 GB,4700 mAh,4.5,"7,492",4.5,631,50MP + 12MP | 10MP Front Camera,"₹44,999",25%,1 Year,50,12,10
+54,Apple iPhone 16,Black,,256 GB,,4.6,"16,639",4.6,704,48MP + 12MP | 12MP Front Camera,"₹79,999",11%,,48,12,12
+55,Google Pixel 9A,Porcelain,8 GB,256 GB,5100 mAh,4.5,,4.5,106,48MP + 12MP | 12MP Front Camera,,,1 Year,48,12,12
+56,Apple iPhone 13,Blue,,128 GB,,4.6,,4.6,907,12MP + 12MP | 12MP Front Camera,"₹44,999",09%,,12,12,12
+57,Apple iPhone 16 Plus,Teal,,256 GB,,4.6,"2,461",4.6,148,48MP + 12MP | 12MP Front Camera,"₹89,999",09%,,48,12,12
+58,Google Pixel 9A,Iris,8 GB,256 GB,5100 mAh,4.5,,4.5,106,48MP + 12MP | 12MP Front Camera,,,1 Year,48,12,12
+59,SAMSUNG Galaxy S24 5G,Marble Gray,8 GB,128 GB,4000 mAh,4.6,"4,050",4.6,292,50MP + 10MP + 12MP | 12MP Front Camera,"₹49,999",33%,1 Year,50,10,12
+60,vivo T3 Ultra,Lunar Gray,12 GB,256 GB,5500 mAh,4.5,"8,342",4.5,667,50MP + 8MP | 50MP Front Camera,"₹31,999",20%,1 Year,50,8,50
+61,POCO F6 5G,Titanium,12 GB,512 GB,5000 mAh,4.3,"7,060",4.3,701,50MP (OIS) + 8MP | 20MP Front Camera,"₹33,999",10%,1 Year,50,,20
+62,vivo V30 Pro 5G,Andaman Blue,12 GB,512 GB,5000 mAh,4.5,"2,320",4.5,262,50MP + 50MP + 50MP | 50MP Front Camera,"₹39,999",23%,1 Year,50,50,50
+63,Motorola Edge 50 Pro 5G with 125W Charger,Caneel Bay,12 GB,256 GB,4500 mAh,4.4,"63,106",4.4,278,50MP + 13MP + 10MP | 50MP Front Camera,"₹29,999",28%,1 Year,50,13,50
+64,Apple iPhone 16,Teal,,256 GB,,4.6,"16,639",4.6,704,48MP + 12MP | 12MP Front Camera,"₹79,999",11%,,48,12,12
+65,Apple iPhone 16,White,,128 GB,,4.6,"16,639",4.6,704,48MP + 12MP | 12MP Front Camera,"₹69,999",12%,,48,12,12
+66,SAMSUNG Galaxy S24 FE 5G,Blue,8 GB,256 GB,4700 mAh,4.5,"7,492",4.5,631,50MP + 12MP | 10MP Front Camera,"₹50,999",22%,1 Year,50,12,10
+67,SAMSUNG Galaxy S24 5G,Amber Yellow,8 GB,128 GB,4000 mAh,4.6,"4,050",4.6,292,50MP + 10MP + 12MP | 12MP Front Camera,"₹49,999",33%,1 Year,50,10,12
+68,IQOO NEO9 PRO,Fiery Red,8 GB,128 GB,5160 mAh,4.5,,4.5,43,50MP Rear Camera,"₹34,599",13%,1 Year,50,,
+69,Apple iPhone 16e,White,,128 GB,,4.6,,4.6,51,48MP Rear Camera | 12MP Front Camera,"₹54,900",08%,,48,,12
+70,Apple iPhone 16,Pink,,256 GB,,4.6,"16,639",4.6,704,48MP + 12MP | 12MP Front Camera,"₹79,999",11%,,48,12,12
+71,SAMSUNG Galaxy S24 FE 5G,Graphite,8 GB,256 GB,4700 mAh,4.5,"7,492",4.5,631,50MP + 12MP | 10MP Front Camera,"₹50,999",22%,1 Year,50,12,10
+72,SAMSUNG Galaxy S24 5G,Cobalt Violet,8 GB,128 GB,4000 mAh,4.6,"4,050",4.6,292,50MP + 10MP + 12MP | 12MP Front Camera,"₹46,999",37%,1 Year,50,10,12
+73,Apple iPhone 16 Plus,Ultramarine,,128 GB,,4.6,"2,461",4.6,148,48MP + 12MP | 12MP Front Camera,"₹79,999",11%,,48,12,12
+74,Apple iPhone 16,White,,256 GB,,4.6,"16,639",4.6,704,48MP + 12MP | 12MP Front Camera,"₹79,999",11%,,48,12,12
+75,Apple iPhone 16 Plus,Pink,,256 GB,,4.6,"2,461",4.6,148,48MP + 12MP | 12MP Front Camera,"₹89,999",09%,,48,12,12
+76,SAMSUNG Galaxy S24 Ultra 5G,Titanium Violet,12 GB,256 GB,5000 mAh,4.6,"2,791",4.6,288,200MP + 50MP + 12MP + 10MP | 12MP Front Camera,"₹91,490",32%,1 Year,200,50,12
+77,SAMSUNG Galaxy S24 5G,Marble Gray,8 GB,256 GB,4000 mAh,4.6,"4,050",4.6,292,50MP + 10MP + 12MP | 12MP Front Camera,"₹55,999",30%,1 Year,50,10,12
+78,Xiaomi 14 CIVI,Panda White,12 GB,512 GB,4700 mAh,4.3,,4.3,60,50MP Rear Camera | 32MP + 32MP Dual Front Camera,"₹43,999",26%,1 Year,50,,
+79,vivo V50 5G,Titanium Grey,8 GB,128 GB,6000 mAh,4.5,"4,605",4.5,442,50MP + 50MP | 50MP Front Camera,"₹34,999",12%,1 Year,50,50,50
+80,SAMSUNG Galaxy S21 FE 5G,Olive Green,8 GB,128 GB,,4.3,,4.3,100,12MP + 12MP + 8MP (OIS) | 32MP Front Camera,"₹39,999",46%,1 Year,12,12,32
+81,SAMSUNG Galaxy S23 5G,Green,8 GB,128 GB,,4.6,"77,667",4.6,347,50MP + 10MP + 12MP | 12MP Front Camera,"₹44,999",50%,1 Year,50,10,12
+82,SAMSUNG Galaxy Z Flip5,Cream,8 GB,512 GB,3700 mAh,4.4,,4.4,48,12MP + 12MP | 10MP Front Camera,"₹73,999",35%,1 Year,12,12,10
+83,OnePlus 10 Pro 5G,Volcanic Black,8 GB,128 GB,5000 mAh,4.2,,4.2,50,48MP Rear Camera | 32MP Front Camera,"₹36,990",44%,1 Year,48,,32
+84,Google Pixel 8a,Aloe,8 GB,128 GB,4404 mAh,4.3,"5,746",4.3,488,64MP + 13MP | 13MP Front Camera,"₹37,999",28%,1 Year,64,13,13
+85,Xiaomi 14 CIVI,Matcha Green,8 GB,256 GB,4700 mAh,4.3,"1,403",4.3,175,50MP Rear Camera | 32MP + 32MP Dual Front Camera,"₹36,999",32%,1 Year,50,,
+86,REDMI Note,Phantom Purple,12 GB,512 GB,6200 mAh,4.5,,4.5,0,50MP + 50MP + 8MP | 20MP Front Camera,"₹34,999",12%,1 Year,50,50,20
+87,SAMSUNG Galaxy S24 5G,Amber Yellow,8 GB,256 GB,4000 mAh,4.6,"4,050",4.6,292,50MP + 10MP + 12MP | 12MP Front Camera,"₹55,999",30%,1 Year,50,10,12
+88,SAMSUNG Galaxy A36 5G,Awesome Black,12 GB,256 GB,5000 mAh,4.2,,4.2,8,50MP + 8MP | 12MP Front Camera,"₹36,999",11%,1 Year,50,8,12
+89,vivo v50 5G,Grey,8 GB,256 GB,6000 mAh,4.5,"4,605",4.5,442,50MP + 50MP | 50MP Front Camera,"₹37,499",14%,,50,50,50
+90,SAMSUNG Galaxy A54 5G,Awesome Lime,8 GB,128 GB,5000 mAh,4.3,"4,881",4.3,401,50MP + 12MP + 5MP | 32MP Front Camera,"₹32,999",21%,1 Year,50,12,32
+91,Apple iPhone 16,Teal,,128 GB,,4.6,"16,639",4.6,704,48MP + 12MP | 12MP Front Camera,"₹69,999",12%,,48,12,12
+92,REDMI Note,Spectre Blue,12 GB,512 GB,6200 mAh,4.5,,4.5,0,50MP + 50MP + 8MP | 20MP Front Camera,"₹35,499",11%,1 Year,50,50,20
+93,vivo V30 5G,Peacock Green,8 GB,128 GB,5000 mAh,4.5,"7,936",4.5,703,50MP + 50MP | 50MP Front Camera,"₹29,999",23%,1 Year,50,50,50
+94,Honor 200 Pro 5G,Ocean Cyan,12 GB,512 GB,5200 mAh,427,,427,3,50MP + 50MP + 12MP | 50MP Front Camera,"₹39,999",33%,,50,50,50
+95,SAMSUNG Galaxy S25 5G,Icyblue,12 GB,256 GB,4000 mAh,4.6,"1,776",4.6,243,50MP + 10MP + 12MP | 12MP Front Camera,,,1 Year,50,10,12
+96,REDMI Note,Spectre Blue,12 GB,512 GB,6200 mAh,4.5,,4.5,0,50MP + 50MP + 8MP | 20MP Front Camera,"₹35,499",11%,1 Year,50,50,20
+97,Xiaomi 14 CIVI,Cruise Blue,12 GB,512 GB,4700 mAh,4.3,,4.3,60,50MP Rear Camera | 32MP + 32MP Dual Front Camera,"₹38,999",35%,1 Year,50,,
+98,SAMSUNG Galaxy S25 5G,Icyblue,12 GB,256 GB,4000 mAh,4.6,"1,776",4.6,243,50MP + 10MP + 12MP | 12MP Front Camera,,,1 Year,50,10,12
+99,SAMSUNG Galaxy A36 5G,Awesome White,8 GB,256 GB,5000 mAh,4.3,,4.3,47,50MP + 8MP | 12MP Front Camera,"₹33,999",12%,1 Year,50,8,12
+100,Apple iPhone 15 Plus,Green,,128 GB,,4.6,"44,782",4.6,541,48MP + 12MP | 12MP Front Camera,"₹74,900",06%,,48,12,12
+101,SAMSUNG Galaxy F56 5G,Violet,8 GB,256 GB,5000 mAh,4.2,,4.2,0,50MP + 8MP + 2MP | 12MP Front Camera,"₹30,999",98%,1 Year,50,8,12
+102,vivo V23 Pro 5G,Sunshine Gold,12 GB,256 GB,,4.2,"1,826",4.2,202,108MP + 8MP + 2MP | 50MP + 8MP Dual Front Camera,"₹41,499",09%,1 Year,108,8,
+103,vivo V40 5G,Ganges Blue,8 GB,128 GB,5500 mAh,4.5,"8,557",4.5,892,50MP + 50MP | 50MP Front Camera,"₹34,999",12%,1 Year,50,50,50
+104,SAMSUNG Galaxy S24 5G,Cobalt Violet,8 GB,128 GB,4000 mAh,4.6,"4,050",4.6,292,50MP + 10MP + 12MP | 12MP Front Camera,"₹46,999",37%,1 Year,50,10,12
+105,Apple iPhone 16,Ultramarine,,128 GB,,4.6,"16,639",4.6,704,48MP + 12MP | 12MP Front Camera,"₹69,999",12%,,48,12,12
+106,OnePlus 12R,Cool Blue,8 GB,256 GB,5500 mAh,4.5,"7,332",4.5,476,50MP Rear Camera,"₹39,999",96%,1 Year,50,,
+107,SAMSUNG Galaxy S24 FE 5G,Mint,8 GB,128 GB,4700 mAh,4.5,"7,492",4.5,631,50MP + 12MP | 10MP Front Camera,"₹44,999",25%,1 Year,50,12,10
+108,vivo X200 5G,Natural Green,12 GB,256 GB,5800 mAh,4.7,,4.7,174,50MP + 50MP + 50MP | 32MP Front Camera,"₹64,899",13%,1 Year,50,50,32
+109,Xiaomi 14 CIVI,Hot Pink,12 GB,512 GB,4700 mAh,4.3,,4.3,60,50MP Rear Camera | 32MP + 32MP Dual Front Camera,"₹43,999",26%,1 Year,50,,
+110,IQOO 13 5G,Legend,12 GB,256 GB,6000 mAh,4.7,,4.7,6,50MP Rear Camera,"₹58,980",94%,1 Year,50,,
+111,vivo X80 Pro,Cosmic Black,12 GB,256 GB,,4.3,"1,047",4.3,202,50MP + 48MP + 12MP + 8MP | 32MP Front Camera,"₹79,999",98%,1 Year,50,48,32
+112,SAMSUNG Galaxy S25 5G,Silver Shadow,12 GB,256 GB,4000 mAh,4.6,"1,776",4.6,243,50MP + 10MP + 12MP | 12MP Front Camera,"₹75,999",96%,1 Year,50,10,12
+113,vivo V40 5G,Lotus Purple,8 GB,256 GB,5500 mAh,4.5,"8,557",4.5,892,50MP + 50MP | 50MP Front Camera,"₹36,998",13%,1 Year,50,50,50
+114,SAMSUNG Galaxy S25 5G,Navy,12 GB,512 GB,4000 mAh,4.6,"1,776",4.6,243,50MP + 10MP + 12MP | 12MP Front Camera,,,1 Year,50,10,12
+115,Google Pixel 9,Porcelain,12 GB,256 GB,4700 mAh,4.6,"2,836",4.6,288,50MP + 48MP | 10.5MP Front Camera,"₹74,999",96%,1 Year,50,48,5
+116,SAMSUNG Galaxy S24 5G,Onyx Black,8 GB,256 GB,4000 mAh,4.6,"4,050",4.6,292,50MP + 10MP + 12MP | 12MP Front Camera,"₹55,999",30%,1 Year,50,10,12
+117,POCO F4 5G,Night Black,12 GB,256 GB,,4.3,"5,788",4.3,742,64MP + 8MP + 2MP | 20MP Front Camera,"₹33,999",15%,2 Year,64,8,20
+118,realme GT 6T 5G,Fluid Silver,12 GB,512 GB,5500 mAh,4.5,"1,079",4.5,100,50MP Rear Camera,"₹33,495",20%,1 Year,50,,
+119,POCO F5 5G,Carbon Black,12 GB,256 GB,5000 mAh,4.3,"5,607",4.3,663,64MP (OIS) + 8MP + 2MP | 16MP Front Camera,"₹33,999",15%,2 Year,64,,16
+120,SAMSUNG Galaxy S25 5G,Icyblue,12 GB,256 GB,4000 mAh,4.6,"1,776",4.6,243,50MP + 10MP + 12MP | 12MP Front Camera,"₹75,999",96%,1 Year,50,10,12
+121,SAMSUNG Galaxy S25 5G,Navy,12 GB,256 GB,4000 mAh,4.6,"1,776",4.6,243,50MP + 10MP + 12MP | 12MP Front Camera,"₹75,999",96%,1 Year,50,10,12
+122,SAMSUNG Galaxy Z Flip5,Mint,8 GB,512 GB,3700 mAh,4.4,,4.4,48,12MP + 12MP | 10MP Front Camera,"₹74,999",34%,1 Year,12,12,10
+123,Google Pixel 9,Obsidian,12 GB,256 GB,4700 mAh,4.6,"2,836",4.6,288,50MP + 48MP | 10.5MP Front Camera,"₹74,999",96%,1 Year,50,48,5
+124,Google Pixel 9,Wintergreen,12 GB,256 GB,4700 mAh,4.6,"2,836",4.6,288,50MP + 48MP | 10.5MP Front Camera,"₹74,999",96%,1 Year,50,48,5
+125,Google Pixel 9,Porcelain,12 GB,256 GB,4700 mAh,4.6,"2,836",4.6,288,50MP + 48MP | 10.5MP Front Camera,"₹74,999",96%,1 Year,50,48,5
+126,Google Pixel 9,Peony,12 GB,256 GB,4700 mAh,4.6,"2,836",4.6,288,50MP + 48MP | 10.5MP Front Camera,"₹74,999",96%,1 Year,50,48,5
+127,OPPO Find N3 Flip,Cream Gold,12 GB,256 GB,4300 mAh,4.3,,4.3,62,50MP + 48MP + 32MP | 32MP Front Camera,"₹74,999",25%,1 Year,50,48,32
+128,Apple iPhone 15,Black,,256 GB,,4.6,,4.6,300,48MP + 12MP | 12MP Front Camera,"₹74,900",06%,,48,12,12
+129,Apple iPhone 15 Plus,Pink,,128 GB,,4.6,"44,782",4.6,541,48MP + 12MP | 12MP Front Camera,"₹74,900",06%,,48,12,12
+130,Apple iPhone 15 Plus,Blue,,128 GB,,4.6,"44,782",4.6,541,48MP + 12MP | 12MP Front Camera,"₹74,900",06%,,48,12,12
+131,Apple iPhone 15,Blue,,256 GB,,4.6,,4.6,300,48MP + 12MP | 12MP Front Camera,"₹74,900",06%,,48,12,12
+132,Apple iPhone 15 Plus,Black,,128 GB,,4.6,"44,782",4.6,541,48MP + 12MP | 12MP Front Camera,"₹74,900",06%,,48,12,12
+133,Apple iPhone 15,Pink,,256 GB,,4.6,,4.6,300,48MP + 12MP | 12MP Front Camera,"₹74,900",06%,,48,12,12
+134,Apple iPhone 15,Green,,256 GB,,4.6,,4.6,300,48MP + 12MP | 12MP Front Camera,"₹74,900",06%,,48,12,12
+135,Apple iPhone 15 Plus,Green,,128 GB,,4.6,"44,782",4.6,541,48MP + 12MP | 12MP Front Camera,"₹74,900",06%,,48,12,12
+136,SAMSUNG Galaxy Z Flip5,Cream,8 GB,512 GB,3700 mAh,4.4,,4.4,48,12MP + 12MP | 10MP Front Camera,"₹73,999",35%,1 Year,12,12,10
+137,OnePlus 13,Black Eclipse,16 GB,512 GB,6000 mAh,4.7,,4.7,10,50MP + 50MP + 50MP | 32MP Front Camera,"₹73,499",98%,1 Year,50,50,32
+138,OnePlus 13,Midnight Ocean,16 GB,512 GB,6000 mAh,4.7,,4.7,10,50MP + 50MP + 50MP | 32MP Front Camera,"₹73,462",98%,1 Year,50,50,32
+139,SAMSUNG Galaxy S22 5G,Green,8 GB,128 GB,,4.4,"20,917",4.4,666,50MP + 12MP + 10MP | 10MP Front Camera,"₹72,999",15%,1 Year,50,12,10
+140,SAMSUNG Galaxy S22 5G,Phantom Black,8 GB,128 GB,,4.4,"20,917",4.4,666,50MP + 12MP + 10MP | 10MP Front Camera,"₹72,999",15%,1 Year,50,12,10
+141,SAMSUNG Galaxy S20 FE 5G,Cloud Navy,8 GB,128 GB,4500 mAh,4.2,"3,486",4.2,229,12MP Rear Camera | 32MP Front Camera,"₹72,999",92%,1 Year,12,,32
+142,OnePlus 10 Pro 5G,Emerald Forest,12 GB,256 GB,5000 mAh,3.9,,3.9,20,48MP Rear Camera,,,,48,,
+143,vivo X200 5G,Cosmos Black,16 GB,512 GB,5800 mAh,4.7,,4.7,25,50MP + 50MP + 50MP | 32MP Front Camera,"₹71,999",11%,1 Year,50,50,32
+144,SAMSUNG Galaxy Z Flip5 Special Edition,Yellow,8 GB,256 GB,3700 mAh,4.4,,4.4,1,12MP + 12MP | 10MP Front Camera,"₹69,999",36%,1 Year,12,12,10
+145,OPPO Find X8 5G,Star Grey,12 GB,256 GB,5630 mAh,4.7,,4.7,150,50MP + 50MP + 50MP | 32MP Front Camera,"₹69,999",12%,1 Year,50,50,32
+146,Apple iPhone 16,Ultramarine,,128 GB,,4.6,"16,639",4.6,704,48MP + 12MP | 12MP Front Camera,"₹69,999",12%,,48,12,12
+147,Apple iPhone 16,White,,128 GB,,4.6,"16,639",4.6,704,48MP + 12MP | 12MP Front Camera,"₹69,999",12%,,48,12,12
+148,Apple iPhone 16,Pink,,128 GB,,4.6,"16,639",4.6,704,48MP + 12MP | 12MP Front Camera,"₹69,999",12%,,48,12,12
+149,SAMSUNG Galaxy Z Flip3 5G,Cream,8 GB,128 GB,,4.3,"9,545",4.3,604,12MP + 12MP | 10MP Front Camera,"₹69,999",27%,1 Year,12,12,10
+150,SAMSUNG Galaxy S22 Plus 5G,Phantom Black,8 GB,128 GB,,4.4,"5,146",4.4,541,50MP + 12MP + 10MP | 10MP Front Camera,"₹69,999",31%,1 Year,50,12,10
+151,vivo X100 Pro,Asteroid Black,16 GB,512 GB,5400 mAh,4.7,,4.7,164,50MP + 50MP + 50MP | 32MP Front Camera,"₹69,990",27%,1 Year,50,50,32
+152,Apple iPhone 14 Plus,Blue,,128 GB,,4.6,"85,811",4.6,758,12MP + 12MP | 12MP Front Camera,,,,12,12,12
+153,Apple iPhone 14 Plus,Starlight,,128 GB,,4.6,"85,811",4.6,758,12MP + 12MP | 12MP Front Camera,,,,12,12,12
+154,Apple iPhone 14 Plus,Midnight,,128 GB,,4.6,"85,811",4.6,758,12MP + 12MP | 12MP Front Camera,,,,12,12,12
+155,SAMSUNG Galaxy Z Flip5,Lavender,8 GB,256 GB,3700 mAh,4.4,,4.4,48,12MP + 12MP | 10MP Front Camera,"₹68,999",33%,1 Year,12,12,10
+156,SAMSUNG Galaxy S20 FE,Cloud Lavender,8 GB,128 GB,,,,,102,12MP + 12MP + 8MP Rear Camera | 32MP Front Camera,,,1 Year,12,12,32
+157,OnePlus 13,Arctic Dawn,12 GB,256 GB,6000 mAh,4.5,,4.5,13,50MP Rear Camera,"₹65,999",99%,,50,,
+158,OnePlus 13,Midnight Ocean,12 GB,256 GB,6000 mAh,4.5,,4.5,13,50MP + 50MP + 50MP | 32MP Front Camera,"₹65,999",99%,1 Year,50,50,32
+159,Apple iPhone 14,Blue,,256 GB,,4.6,,4.6,673,12MP + 12MP | 12MP Front Camera,"₹64,999",07%,,12,12,12
+160,Apple iPhone 14,Purple,,256 GB,,4.6,,4.6,673,12MP + 12MP | 12MP Front Camera,"₹64,999",07%,,12,12,12
+161,SAMSUNG Galaxy S23 Plus 5G,Phantom Black,8 GB,512 GB,,4.5,,4.5,38,50MP + 10MP + 12MP | 12MP Front Camera,"₹64,999",49%,1 Year,50,10,12
+162,Apple iPhone 14,Midnight,,256 GB,,4.6,,4.6,673,12MP + 12MP | 12MP Front Camera,"₹64,999",07%,,12,12,12
+163,Apple iPhone 14,Starlight,,256 GB,,4.6,,4.6,673,12MP + 12MP | 12MP Front Camera,"₹64,999",07%,,12,12,12
+164,Apple iPhone 15,Black,,128 GB,,4.6,,4.6,300,48MP + 12MP | 12MP Front Camera,"₹64,900",07%,,48,12,12
+165,Apple iPhone 15,Blue,,128 GB,,4.6,,4.6,300,48MP + 12MP | 12MP Front Camera,"₹64,900",07%,,48,12,12
+166,Apple iPhone 15,Pink,,128 GB,,4.6,,4.6,300,48MP + 12MP | 12MP Front Camera,"₹64,900",07%,,48,12,12
+167,Apple iPhone 16e,White,,256 GB,,4.6,,4.6,51,48MP Rear Camera | 12MP Front Camera,"₹64,900",07%,,48,,12
+168,Apple iPhone 16e,Black,,256 GB,,4.6,,4.6,51,48MP Rear Camera | 12MP Front Camera,"₹64,900",07%,,48,,12
+169,Apple iPhone 12,Purple,,256 GB,,4.6,,4.6,929,12MP + 12MP | 12MP Front CameraA14 Bionic Chip with Next Generation Neural Engine ProcessorCeramic ShieldIndustry-leading IP68 Water ResistanceAll Screen OLED Display12MP TrueDepth Front Camera,,,,12,12,12
+170,Apple iPhone 15,Green,,128 GB,,4.6,,4.6,300,48MP + 12MP | 12MP Front Camera,"₹64,900",18%,,48,12,12
+171,vivo X200 5G,Natural Green,12 GB,256 GB,5800 mAh,4.7,,4.7,174,50MP + 50MP + 50MP | 32MP Front Camera,"₹64,899",13%,1 Year,50,50,32
+172,SAMSUNG Galaxy S23 Plus 5G,Cream,8 GB,512 GB,,4.5,,4.5,38,50MP + 10MP + 12MP | 12MP Front Camera,"₹64,899",49%,1 Year,50,10,12
+173,vivo X200 5G,Cosmos Black,12 GB,256 GB,5800 mAh,4.7,,4.7,174,50MP + 50MP + 50MP | 32MP Front Camera,"₹62,997",16%,1 Year,50,50,32
+174,SAMSUNG Galaxy S9,Midnight Black,4 GB,64 GB,3000 mAh,4.4,"30,785",4.4,515,12MP Rear Camera | 8MP Front Camera,,,1 Year,12,,8
+175,realme GT 7 Pro,Mars Orange,16 GB,512 GB,5800 mAh,4.4,,4.4,0,50MP Rear Camera,"₹59,999",20%,1 Year,50,,
+176,realme GT 7 Pro,Galaxy Grey,16 GB,512 GB,5800 mAh,4.4,,4.4,0,50MP Rear Camera,"₹59,999",20%,1 Year,50,,
+177,MOTOROLA Razar 50 Flip,Koala Grey,8 GB,256 GB,4200 mAh,,,,0,50MP Rear Camera,"₹59,990",20%,1 Year,50,,
+178,vivo X100,Stargaze Blue,16 GB,512 GB,5000 mAh,4.6,,4.6,65,50MP + 50MP + 64MP | 32MP Front Camera,"₹59,990",20%,1 Year,50,50,32
+179,vivo X90 Pro,Legendary Black,12 GB,256 GB,4870 mAh,4.4,,4.4,139,50MP + 50MP + 12MP | 32MP Front Camera,"₹59,980",34%,1 Year,50,50,32
+180,vivo X90,Breeze Blue,12 GB,256 GB,4810 mAh,4.3,,4.3,61,50MP + 12MP + 12MP | 32MP Front Camera,"₹59,468",98%,1 Year,50,12,32
+181,IQOO 13 5G,Legend,12 GB,256 GB,6000 mAh,4.7,,4.7,6,50MP Rear Camera,"₹58,980",94%,1 Year,50,,
+182,IQOO 13 5G,Nardo Grey,12 GB,256 GB,6000 mAh,4.7,,4.7,6,50MP Rear Camera,"₹58,980",94%,1 Year,50,,
+183,Cubot KingKong X 5G,Black,16 GB,256 GB,10200 mAh,,,,,100MP + 32MP + 5MP | 32MP + 32MP Dual Front Camera,"₹58,788",16%,1 Year,100,32,
+184,SAMSUNG Galaxy S24 5G,Onyx Black,8 GB,256 GB,4000 mAh,4.6,"4,050",4.6,292,50MP + 10MP + 12MP | 12MP Front Camera,"₹55,999",30%,1 Year,50,10,12
+185,SAMSUNG Galaxy S24 5G,Cobalt Violet,8 GB,256 GB,4000 mAh,4.6,"4,050",4.6,292,50MP + 10MP + 12MP | 12MP Front Camera,"₹55,999",30%,1 Year,50,10,12
+186,ASUS ROG Phone 5,Black,8 GB,128 GB,,,,,781,64MP + 13MP + 5MP | 24MP Front Camera,,,1 Year,64,13,24
+187,OnePlus 12,Flowy Emerald,16 GB,512 GB,5400 mAh,4.6,"1,448",4.6,129,64MP Rear Camera,"₹55,999",20%,1 Year,64,,
+188,SAMSUNG Galaxy S24 5G,Amber Yellow,8 GB,256 GB,4000 mAh,4.6,"4,050",4.6,292,50MP + 10MP + 12MP | 12MP Front Camera,"₹55,999",30%,1 Year,50,10,12
+189,vivo V40 Pro 5G,Titanium Grey,12 GB,512 GB,5500 mAh,4.5,,4.5,99,50MP + 50MP + 50MP | 50MP Front Camera,"₹55,999",98%,1 Year,50,50,50
+190,SAMSUNG Galaxy S24 5G,Marble Gray,8 GB,256 GB,4000 mAh,4.6,"4,050",4.6,292,50MP + 10MP + 12MP | 12MP Front Camera,"₹55,999",30%,1 Year,50,10,12
+191,OnePlus 12,Silky Black,16 GB,512 GB,5400 mAh,4.6,"1,448",4.6,129,64MP Rear Camera,"₹55,998",20%,1 Year,64,,
+192,OnePlus 12,Flowy Emerald,16 GB,512 GB,5400 mAh,4.6,"1,448",4.6,129,64MP Rear Camera,"₹55,999",20%,1 Year,64,,
+193,SAMSUNG Galaxy S24 5G,Marble Gray,8 GB,256 GB,4000 mAh,4.6,"4,050",4.6,292,50MP + 10MP + 12MP | 12MP Front Camera,"₹55,999",30%,1 Year,50,10,12
+194,OnePlus 12,Silky Black,16 GB,512 GB,5400 mAh,4.6,"1,448",4.6,129,64MP Rear Camera,"₹55,998",20%,1 Year,64,,
+195,Apple iPhone 14,Midnight,,128 GB,,4.6,,4.6,673,12MP + 12MP | 12MP Front Camera,"₹54,999",08%,,12,12,12
+196,Apple iPhone 14,Blue,,128 GB,,4.6,,4.6,673,12MP + 12MP | 12MP Front Camera,"₹54,999",08%,,12,12,12
+197,OnePlus 12,Flowy Emerald,12 GB,256 GB,5400 mAh,4.6,"1,314",4.6,105,64MP Rear Camera,"₹54,999",15%,1 Year,64,,
+198,Apple iPhone 14,Starlight,,128 GB,,4.6,,4.6,673,12MP + 12MP | 12MP Front Camera,"₹54,999",08%,,12,12,12
+199,realme GT 7 Pro,Mars Orange,12 GB,256 GB,5800 mAh,4.8,,4.8,2,50MP Rear Camera,"₹54,999",21%,1 Year,50,,
+200,OPPO Reno10 Pro+ 5G,Silvery Grey,12 GB,256 GB,4700 mAh,4.5,"2,407",4.5,418,50MP + 64MP + 8MP | 32MP Front Camera,"₹54,999",98%,1 Year,50,64,32
+201,realme GT 7 Pro,Grey,12 GB,256 GB,5800 mAh,4.8,,4.8,2,50MP Rear Camera,"₹54,999",21%,1 Year,50,,
+202,vivo X100,Asteroid Black,12 GB,256 GB,5000 mAh,4.6,,4.6,202,50MP + 50MP + 64MP | 32MP Front Camera,"₹54,995",20%,1 Year,50,50,32
+203,Apple iPhone 16e,Black,,128 GB,,4.6,,4.6,51,48MP Rear Camera | 12MP Front Camera,"₹54,900",08%,,48,,12
+204,Apple iPhone SE,White,,256 GB,,4.5,,4.5,986,12MP Rear Camera | 7MP Front Camera,,,,12,,7
+205,Apple iPhone 16e,White,,128 GB,,4.6,,4.6,51,48MP Rear Camera | 12MP Front Camera,"₹54,900",08%,,48,,12
+206,OnePlus 9 Pro 5G,Pine Green,12 GB,256 GB,4500 mAh,3.8,,3.8,26,48MP Rear Camera,,,1 Year,48,,
+207,SAMSUNG Galaxy S24 5G,Onyx Black,8 GB,128 GB,4000 mAh,4.6,"4,050",4.6,292,50MP + 10MP + 12MP | 12MP Front Camera,"₹53,999",28%,1 Year,50,10,12
+208,vivo X90,Breeze Blue,8 GB,256 GB,4810 mAh,4.4,"1,077",4.4,168,50MP + 12MP + 12MP | 32MP Front Camera,"₹53,990",12%,1 Year,50,12,32
+209,SAMSUNG Galaxy S23 5G,Cream,8 GB,256 GB,,4.6,"77,667",4.6,347,50MP + 10MP + 12MP | 12MP Front Camera,"₹53,990",43%,1 Year,50,10,12
+210,vivo X100,Stargaze Blue,12 GB,256 GB,5000 mAh,4.6,,4.6,202,50MP + 50MP + 64MP | 32MP Front Camera,"₹53,825",21%,1 Year,50,50,32
+211,SAMSUNG Galaxy S24+ 5G,Cobalt Violet,12 GB,256 GB,4900 mAh,4.5,"9,333",4.5,717,50MP + 10MP + 12MP | 12MP Front Camera,"₹52,999",47%,1 Year,50,10,12
+212,OnePlus 12,Silky Black,12 GB,256 GB,5400 mAh,4.6,"1,314",4.6,105,64MP Rear Camera,"₹52,999",17%,1 Year,64,,
+213,Samsung Galaxy S21 FE 5G with Snapdragon 888,Lavender,8 GB,256 GB,,4.3,,4.3,100,12MP + 12MP + 8MP (OIS) | 32MP Front Camera,"₹52,999",14%,1 Year,12,12,32
+214,SAMSUNG Galaxy S24+ 5G,Onyx Black,12 GB,256 GB,4900 mAh,4.5,"9,333",4.5,717,50MP + 10MP + 12MP | 12MP Front Camera,"₹52,999",47%,1 Year,50,10,12
+215,Apple iPhone XR,White,,128 GB,,4.6,,4.6,477,12MP Rear Camera | 7MP Front Camera,,,,12,,7
+216,SAMSUNG Galaxy S24 FE 5G,Mint,8 GB,256 GB,4700 mAh,4.5,"7,492",4.5,631,50MP + 12MP | 10MP Front Camera,"₹50,999",22%,1 Year,50,12,10
+217,SAMSUNG Galaxy S24 FE 5G,Blue,8 GB,256 GB,4700 mAh,4.5,"7,492",4.5,631,50MP + 12MP | 10MP Front Camera,"₹50,999",22%,1 Year,50,12,10
+218,SAMSUNG Galaxy S24 FE 5G,Graphite,8 GB,256 GB,4700 mAh,4.5,"7,492",4.5,631,50MP + 12MP | 10MP Front Camera,"₹50,999",22%,1 Year,50,12,10
+219,SAMSUNG Galaxy S24 5G,Onyx Black,8 GB,256 GB,4000 mAh,4.6,"4,050",4.6,292,50MP + 10MP + 12MP | 12MP Front Camera,"₹50,990",36%,1 Year,50,10,12
+220,Motorola Edge 50 Ultra 5G,Nordic Wood,12 GB,512 GB,4500 mAh,4.3,"2,739",4.3,305,50MP + 50MP + 64MP | 50MP Front Camera,"₹49,999",23%,1 Year,50,50,50
+221,SAMSUNG Galaxy S24 5G,Cobalt Violet,8 GB,128 GB,4000 mAh,4.6,"4,050",4.6,292,50MP + 10MP + 12MP | 12MP Front Camera,"₹49,999",33%,1 Year,50,10,12
+222,OPPO Reno13 Pro 5G,Graphite Grey,12 GB,256 GB,5800 mAh,4.5,,4.5,116,50MP + 50MP + 8MP | 50MP Front Camera,"₹49,999",99%,1 Year,50,50,50
+223,SAMSUNG Galaxy S24 5G,Amber Yellow,8 GB,128 GB,4000 mAh,4.6,"4,050",4.6,292,50MP + 10MP + 12MP | 12MP Front Camera,"₹49,999",33%,1 Year,50,10,12
+224,SAMSUNG Galaxy S23 5G,Phantom Black,8 GB,256 GB,,4.6,"77,667",4.6,347,50MP + 10MP + 12MP | 12MP Front Camera,"₹49,999",47%,1 Year,50,10,12
+225,Google Pixel 9A,Iris,8 GB,256 GB,5100 mAh,4.5,,4.5,106,48MP + 12MP | 12MP Front Camera,,,1 Year,48,12,12
+226,Google Pixel 9A,Porcelain,8 GB,256 GB,5100 mAh,4.5,,4.5,106,48MP + 12MP | 12MP Front Camera,,,1 Year,48,12,12
+227,MOTOROLA Razr 60,PANTONE Lightest Sky,8 GB,256 GB,4500 mAh,,,,,50MP + 13MP | 32MP Front Camera,"₹49,999",99%,1 Year,50,13,32
+228,vivo V40 Pro 5G,Ganges Blue,12 GB,512 GB,5500 mAh,4.5,,4.5,99,50MP + 50MP + 50MP | 50MP Front Camera,"₹49,999",28%,1 Year,50,50,50
+229,Google Pixel 9A,Obsidian,8 GB,256 GB,5100 mAh,4.5,,4.5,106,48MP + 12MP | 12MP Front Camera,,,1 Year,48,12,12
+230,SAMSUNG Galaxy S23 5G,Lavender,8 GB,256 GB,,4.6,"77,667",4.6,347,50MP + 10MP + 12MP | 12MP Front Camera,"₹49,999",47%,1 Year,50,10,12
+231,vivo V40 Pro 5G,Ganges Blue,8 GB,256 GB,5500 mAh,4.4,"1,157",4.4,143,50MP + 50MP + 50MP | 50MP Front Camera,"₹49,999",99%,1 Year,50,50,50
+232,MOTOROLA Razr 60,PANTONE Spring Bud,8 GB,256 GB,4500 mAh,,,,,50MP + 13MP | 32MP Front Camera,"₹49,999",99%,1 Year,50,13,32
+233,Motorola Edge 50 Ultra 5G,Peach Fuzz,12 GB,512 GB,4500 mAh,4.3,"2,739",4.3,305,50MP + 50MP + 64MP | 50MP Front Camera,"₹49,999",23%,1 Year,50,50,50
+234,vivo V40 Pro 5G,Titanium Grey,8 GB,256 GB,5500 mAh,4.4,"1,157",4.4,143,50MP + 50MP + 50MP | 50MP Front Camera,"₹49,999",99%,1 Year,50,50,50
+235,MOTOROLA Razr 60,PANTONE Gibraltar Sea,8 GB,256 GB,4500 mAh,,,,,50MP + 13MP | 32MP Front Camera,"₹49,999",99%,1 Year,50,13,32
+236,SAMSUNG Galaxy S24 5G,Marble Gray,8 GB,128 GB,4000 mAh,4.6,"4,050",4.6,292,50MP + 10MP + 12MP | 12MP Front Camera,"₹49,999",33%,1 Year,50,10,12
+237,SAMSUNG Galaxy S24 5G,Onyx Black,8 GB,128 GB,4000 mAh,4.6,"4,050",4.6,292,50MP + 10MP + 12MP | 12MP Front Camera,"₹49,999",33%,1 Year,50,10,12
+238,SAMSUNG Galaxy S23 5G,Green,8 GB,256 GB,,4.6,"77,667",4.6,347,50MP + 10MP + 12MP | 12MP Front Camera,"₹49,999",47%,1 Year,50,10,12
+239,SAMSUNG Galaxy S23 5G,Phantom Black,8 GB,128 GB,,4.6,"77,667",4.6,347,50MP + 10MP + 12MP | 12MP Front Camera,"₹49,990",44%,1 Year,50,10,12
+240,MOTOROLA Razr 60,PANTONE Lightest Sky,8 GB,256 GB,4500 mAh,,,,,50MP + 13MP | 32MP Front Camera,"₹49,999",99%,1 Year,50,13,32
+241,SAMSUNG Galaxy S24 5G,Onyx Black,8 GB,128 GB,4000 mAh,4.6,"4,050",4.6,292,50MP + 10MP + 12MP | 12MP Front Camera,"₹49,999",33%,1 Year,50,10,12
+242,SAMSUNG Galaxy S24 5G,Marble Gray,8 GB,128 GB,4000 mAh,4.6,"4,050",4.6,292,50MP + 10MP + 12MP | 12MP Front Camera,"₹49,999",33%,1 Year,50,10,12
+243,MOTOROLA Razr 60,PANTONE Gibraltar Sea,8 GB,256 GB,4500 mAh,,,,,50MP + 13MP | 32MP Front Camera,"₹49,999",99%,1 Year,50,13,32
+244,SAMSUNG Galaxy S23 5G,Green,8 GB,256 GB,,4.6,"77,667",4.6,347,50MP + 10MP + 12MP | 12MP Front Camera,"₹49,999",47%,1 Year,50,10,12
+245,13 pro,Ceramic Black,12 GB,256 GB,4820 mAh,4.2,,4.2,5,50MP Rear Camera,"₹49,990",44%,,50,,
+246,SAMSUNG Galaxy S23 5G,Phantom Black,8 GB,128 GB,,4.6,"77,667",4.6,347,50MP + 10MP + 12MP | 12MP Front Camera,"₹49,990",44%,1 Year,50,10,12
+247,Apple iPhone 8 Plus,Gold,,64 GB,,4.6,"3,428",4.6,354,12MP + 12MP | 7MP Front Camera,"₹49,900",35%,1 Year,12,12,7
+248,Apple iPhone 8 Plus,Silver,,64 GB,,4.6,"3,428",4.6,354,12MP + 12MP | 7MP Front Camera,"₹49,900",38%,1 Year,12,12,7
+249,Apple iPhone 8 Plus,Space Grey,,64 GB,,4.6,"3,428",4.6,354,12MP + 12MP | 7MP Front Camera,"₹49,900",33%,1 Year,12,12,7
+250,IQOO 12 5G,Alpha,16 GB,512 GB,5000 mAh,4.5,,4.5,1,50MP Rear Camera,"₹49,890",23%,1 Year,50,,
+251,Apple iPhone 12,Blue,,64 GB,,4.6,,4.6,929,12MP + 12MP | 12MP Front CameraA14 Bionic Chip with Next Generation Neural Engine ProcessorCeramic ShieldIndustry-leading IP68 Water ResistanceAll Screen OLED Display12MP TrueDepth Front Camera,"₹48,900",02%,,12,12,12
+252,Apple iPhone 12,White,,64 GB,,4.6,,4.6,929,12MP + 12MP | 12MP Front CameraA14 Bionic Chip with Next Generation Neural Engine ProcessorCeramic ShieldIndustry-leading IP68 Water ResistanceAll Screen OLED Display12MP TrueDepth Front Camera,"₹48,900",02%,,12,12,12
+253,Apple iPhone 11,Black,,128 GB,,4.6,,4.6,402,12MP + 12MP | 12MP Front Camera,,,,12,12,12
+254,IQOO 12 5G,Alpha,12 GB,256 GB,5000 mAh,4.6,,4.6,4,50MP Rear Camera,"₹48,875",18%,1 Year,50,,
+255,IQOO 12 5G,Legend,12 GB,256 GB,5000 mAh,4.6,,4.6,4,50MP Rear Camera,"₹48,800",18%,1 Year,50,,
+256,vivo X90,Asteroid Black,12 GB,256 GB,4810 mAh,4.3,,4.3,61,50MP + 12MP + 12MP | 32MP Front Camera,"₹48,778",24%,1 Year,50,12,32
+257,realme X50 Pro,Moss Green,12 GB,256 GB,4200 mAh,4.4,"1,674",4.4,186,64MP + 12MP + 8MP + 2MP | 32MP + 8MP Dual Front Camera,,,1 Year,64,12,
+258,SAMSUNG Galaxy S23 5G,Green,8 GB,128 GB,,4.6,"77,667",4.6,347,50MP + 10MP + 12MP | 12MP Front Camera,"₹47,990",46%,1 Year,50,10,12
+259,SAMSUNG Galaxy S23 5G,Cream,8 GB,128 GB,,4.6,"77,667",4.6,347,50MP + 10MP + 12MP | 12MP Front Camera,"₹47,990",46%,1 Year,50,10,12
+260,Apple iPhone XR,White,,64 GB,,4.6,,4.6,477,12MP Rear Camera | 7MP Front Camera,,,,12,,7
+261,Apple iPhone XR,Black,,64 GB,,4.6,,4.6,477,12MP Rear Camera | 7MP Front Camera,,,,12,,7
+262,Apple iPhone XR,Yellow,,64 GB,,4.6,,4.6,477,12MP Rear Camera | 7MP Front Camera,,,,12,,7
+263,Apple iPhone SE 3rd Gen,Product (Red),,64 GB,,4.4,"1,417",4.4,138,12MP Rear Camera | 7MP Front Camera,,,,12,,7
+264,Samsung Galaxy S21 FE 5G with Snapdragon 888,Navy,8 GB,128 GB,,4.3,,4.3,100,12MP + 12MP + 8MP (OIS) | 32MP Front Camera,"₹45,999",34%,1 Year,12,12,32
+265,Samsung Galaxy S21 FE 5G with Snapdragon 888,Olive,8 GB,128 GB,,4.3,,4.3,100,12MP + 12MP + 8MP (OIS) | 32MP Front Camera,"₹45,999",34%,1 Year,12,12,32
+266,realme Gt 7T,Icesense Black,12 GB,512 GB,7000 mAh,,,,,50MP + 50MP + 8MP | 32MP + 32MP Dual Front Camera,"₹45,999",92%,,50,50,
+267,realme Gt 7T,Icesense Blue,12 GB,512 GB,7000 mAh,,,,,50MP + 50MP + 8MP | 32MP + 32MP Dual Front Camera,"₹45,999",92%,,50,50,
+268,IQOO 9T 5G,ALPHA,8 GB,128 GB,4700 mAh,4.1,,4.1,11,50MP Rear Camera,"₹45,799",16%,1 Year,50,,
+269,vivo V25 Pro 5G,Sailing Blue,12 GB,256 GB,,4.3,,4.3,88,64MP + 8MP + 2MP | 32MP Front Camera,"₹45,000",99%,1 Year,64,8,32
+270,Infinix Zero Flip 5G,Rock Black,8 GB,512 GB,,4.3,,4.3,58,50MP + 50MP | 50MP Front Camera,"₹44,999",43%,1 Year,50,50,50
+271,Apple iPhone 13,Starlight,,128 GB,,4.6,,4.6,907,12MP + 12MP | 12MP Front Camera,"₹44,999",09%,,12,12,12
+272,SAMSUNG Galaxy A54 5G,Awesome Violet,8 GB,256 GB,5000 mAh,4.3,"4,881",4.3,401,50MP + 12MP + 5MP | 32MP Front Camera,"₹44,999",92%,1 Year,50,12,32
+273,Google Pixel 7 Pro,Hazel,12 GB,128 GB,4926 mAh,4.3,"7,367",4.3,907,50MP + 48MP + 12MP | 10.8MP Front Camera,"₹44,999",47%,1 Year,50,48,8
+274,Infinix Zero Flip 5G,Blossom Glow,8 GB,512 GB,,4.3,,4.3,58,50MP + 50MP | 50MP Front Camera,"₹44,999",43%,1 Year,50,50,50
+275,Google Pixel 8a,Obsidian,8 GB,256 GB,4404 mAh,4.3,"5,746",4.3,488,64MP + 13MP | 13MP Front Camera,"₹44,999",25%,1 Year,64,13,13
+276,Google Pixel 8,Rose,8 GB,128 GB,4575 mAh,4.4,"18,399",4.4,426,50MP + 12MP | 10.5MP Front Camera,"₹44,999",40%,1 Year,50,12,5
+277,SAMSUNG Galaxy S23 5G,Phantom Black,8 GB,128 GB,,4.6,"77,667",4.6,347,50MP + 10MP + 12MP | 12MP Front Camera,"₹44,999",50%,1 Year,50,10,12
+278,Apple iPhone 13,Midnight,,128 GB,,4.6,,4.6,907,12MP + 12MP | 12MP Front Camera,"₹44,999",09%,,12,12,12
+279,SAMSUNG Galaxy S24 FE 5G,Blue,8 GB,128 GB,4700 mAh,4.5,"7,492",4.5,631,50MP + 12MP | 10MP Front Camera,"₹44,999",25%,1 Year,50,12,10
+280,SAMSUNG Galaxy S24 FE 5G,Mint,8 GB,128 GB,4700 mAh,4.5,"7,492",4.5,631,50MP + 12MP | 10MP Front Camera,"₹44,999",25%,1 Year,50,12,10
+281,SAMSUNG Galaxy S23 5G,Cream,8 GB,128 GB,,4.6,"77,667",4.6,347,50MP + 10MP + 12MP | 12MP Front Camera,"₹44,999",50%,1 Year,50,10,12
+282,SAMSUNG Galaxy S24 FE 5G,Graphite,8 GB,128 GB,4700 mAh,4.5,"7,492",4.5,631,50MP + 12MP | 10MP Front Camera,"₹44,999",25%,1 Year,50,12,10
+283,SAMSUNG Galaxy A56 5G,Awesome Graphite,12 GB,256 GB,5000 mAh,4.4,,4.4,16,50MP + 12MP + 5MP | 12MP Front Camera,"₹44,999",15%,1 Year,50,12,12
+284,Apple iPhone 13,Blue,,128 GB,,4.6,,4.6,907,12MP + 12MP | 12MP Front Camera,"₹44,999",09%,,12,12,12
+285,SAMSUNG Galaxy S23 5G,Green,8 GB,128 GB,,4.6,"77,667",4.6,347,50MP + 10MP + 12MP | 12MP Front Camera,"₹44,999",50%,1 Year,50,10,12
+286,SAMSUNG Galaxy A56 5G,Awesome Olive,12 GB,256 GB,5000 mAh,4.4,,4.4,16,50MP + 12MP + 5MP | 12MP Front Camera,"₹44,999",15%,1 Year,50,12,12
+287,MOTOROLA razr 40,Sage Green,8 GB,256 GB,4200 mAh,3.9,,3.9,8,64MP Rear Camera,"₹44,999",55%,1 Year,64,,
+288,SAMSUNG Galaxy S24 FE 5G,Blue,8 GB,128 GB,4700 mAh,4.5,"7,492",4.5,631,50MP + 12MP | 10MP Front Camera,"₹44,999",25%,1 Year,50,12,10
+289,SAMSUNG Galaxy S24 FE 5G,Graphite,8 GB,128 GB,4700 mAh,4.5,"7,492",4.5,631,50MP + 12MP | 10MP Front Camera,"₹44,999",25%,1 Year,50,12,10
+290,SAMSUNG Galaxy S23 5G,Phantom Black,8 GB,128 GB,,4.6,"77,667",4.6,347,50MP + 10MP + 12MP | 12MP Front Camera,"₹44,999",50%,1 Year,50,10,12
+291,Google Pixel 8,Rose,8 GB,128 GB,4575 mAh,4.4,"18,399",4.4,426,50MP + 12MP | 10.5MP Front Camera,"₹44,999",40%,1 Year,50,12,5
+292,realme GT 6T 5G,Razor Green,12 GB,512 GB,5500 mAh,4.5,"1,079",4.5,100,50MP Rear Camera,,,1 Year,50,,
+293,OPPO Reno10 Pro+ 5G,Glossy Purple,12 GB,256 GB,4700 mAh,4.5,"2,407",4.5,418,50MP + 64MP + 8MP | 32MP Front Camera,"₹44,990",25%,1 Year,50,64,32
+294,OnePlus 7T Pro Mclaren Limited Edition,Papaya Orange,12 GB,256 GB,4085 mAh,4.1,,4.1,2,48MP Rear Camera | 8MP Front Camera,"₹44,990",23%,,48,,8
+295,Apple iPhone SE,Black,,128 GB,,4.5,,4.5,986,12MP Rear Camera | 7MP Front Camera,,,,12,,7
+296,Apple iPhone SE,Red,,128 GB,,4.5,,4.5,986,12MP Rear Camera | 7MP Front Camera,,,,12,,7
+297,Xiaomi 14 CIVI,Aqua Blue,12 GB,512 GB,4700 mAh,4.3,,4.3,60,50MP Rear Camera | 32MP + 32MP Dual Front Camera,"₹43,999",26%,1 Year,50,,
+298,Google Pixel 6a,Charcoal,6 GB,128 GB,4410 mAh,4.3,"75,554",4.3,535,12.2MP + 12MP | 8MP Front Camera,,,1 Year,,,8
+299,Google Pixel 6a,Chalk,6 GB,128 GB,4410 mAh,4.3,"75,554",4.3,535,12.2MP + 12MP | 8MP Front Camera,,,1 Year,,,8
+300,OnePlus 12R,Cool Blue,16 GB,256 GB,5500 mAh,4.5,"4,407",4.5,277,50MP Rear Camera,"₹43,999",94%,1 Year,50,,
+301,Xiaomi 14 CIVI,Panda White,12 GB,512 GB,4700 mAh,4.3,,4.3,60,50MP Rear Camera | 32MP + 32MP Dual Front Camera,"₹43,999",26%,1 Year,50,,
+302,vivo V40 5G,Titanium Grey,12 GB,512 GB,5500 mAh,4.6,"1,124",4.6,110,50MP + 50MP | 50MP Front Camera,"₹43,999",96%,1 Year,50,50,50
+303,Xiaomi 14 CIVI,Hot Pink,12 GB,512 GB,4700 mAh,4.3,,4.3,60,50MP Rear Camera | 32MP + 32MP Dual Front Camera,"₹43,999",26%,1 Year,50,,
+304,OnePlus 11R 5G,Sonic Black,16 GB,256 GB,5000 mAh,4.5,"14,229",4.5,916,50MP Rear Camera,"₹43,999",92%,,50,,
+305,vivo X80,Cosmic Black,8 GB,128 GB,,4.4,"1,054",4.4,179,50MP + 12MP + 12MP | 32MP Front Camera,"₹43,670",27%,1 Year,50,12,32
+306,OnePlus 13R 5G,Nebula Noir,16 GB,512 GB,6000 mAh,4.5,,4.5,32,50MP Rear Camera,"₹43,631",16%,,50,,
+307,OnePlus 13R 5G,Astral Trail,16 GB,512 GB,6000 mAh,4.5,,4.5,32,50MP Rear Camera,"₹43,497",16%,,50,,
+308,vivo V40 5G,Ganges Blue,12 GB,512 GB,5500 mAh,4.6,"1,124",4.6,110,50MP + 50MP | 50MP Front Camera,"₹42,999",98%,1 Year,50,50,50
+309,OnePlus 12R,Iron Grey,16 GB,256 GB,5500 mAh,4.5,"4,407",4.5,277,50MP Rear Camera,"₹42,999",96%,1 Year,50,,
+310,vivo V40 5G,Lotus Purple,12 GB,512 GB,5500 mAh,4.6,"1,124",4.6,110,50MP + 50MP | 50MP Front Camera,"₹42,999",14%,1 Year,50,50,50
+311,realme GT NEO 3,150W) (Asphalt Black,12 GB,256 GB,,4.3,,4.3,90,50MP + 8MP + 2MP | 16MP Front Camera,"₹42,999",96%,1 Year,50,8,16
+312,OnePlus 12R,Iron Grey,16 GB,256 GB,5500 mAh,4.5,"4,407",4.5,277,50MP Rear Camera,"₹42,999",96%,1 Year,50,,
+313,realme GT NEO 3,150W) (Nitro Blue,12 GB,256 GB,,4.3,,4.3,90,50MP + 8MP + 2MP | 16MP Front Camera,"₹42,999",96%,1 Year,50,8,16
+314,Apple iPhone 7 Plus,Gold,,128 GB,,4.5,"29,752",4.5,972,12MP + 12MP | 7MP Front Camera,,,1 Year,12,12,7
+315,LG G Pro 2,Titan,3 GB,16 GB,3200 mAh,4.5,,4.5,72,13MP Rear Camera | 2.1MP Front Camera,"₹42,021",15%,1 Year,13,,1
+316,OPPO Reno13 5G,Sky Blue,12 GB,512 GB,5600 mAh,4.6,,4.6,2,50MP + 8MP + 2MP | 50MP Front Camera,"₹41,999",94%,1 Year,50,8,50
+317,SAMSUNG Galaxy A56 5G,Awesome Graphite,8 GB,256 GB,5000 mAh,4.3,,4.3,22,50MP + 12MP + 5MP | 12MP Front Camera,"₹41,999",14%,1 Year,50,12,12
+318,SAMSUNG Galaxy A73 5G,Awesome Gray,8 GB,128 GB,,4.2,"1,885",4.2,224,108MP + 12MP + 5MP + 5MP | 32MP Front Camera,"₹41,999",11%,1 Year,108,12,32
+319,realme Gt 7T,Icesense Black,12 GB,256 GB,7000 mAh,,,,,50MP + 50MP + 8MP | 32MP + 32MP Dual Front Camera,"₹41,999",92%,,50,50,
+320,SAMSUNG Galaxy A56 5G,Awesome Olive,8 GB,256 GB,5000 mAh,4.3,,4.3,22,50MP + 12MP + 5MP | 12MP Front Camera,"₹41,999",14%,1 Year,50,12,12
+321,Xiaomi 12 Pro 5G,Couture Blue,12 GB,256 GB,,4.1,"1,063",4.1,121,50MP + 50MP + 50MP | 32MP Front Camera,"₹41,999",50%,1 Year,50,50,32
+322,SAMSUNG Galaxy A56 5G,Awesome Light Gray,8 GB,256 GB,5000 mAh,4.3,,4.3,22,50MP + 12MP + 5MP | 12MP Front Camera,"₹41,999",14%,1 Year,50,12,12
+323,Xiaomi 12 Pro 5G,Noir Black,12 GB,256 GB,,4.1,"1,063",4.1,121,50MP + 50MP + 50MP | 32MP Front Camera,"₹41,999",50%,1 Year,50,50,32
+324,SAMSUNG Galaxy A73 5G,Mint,8 GB,128 GB,,4.2,"1,885",4.2,224,108MP + 12MP + 5MP + 5MP | 32MP Front Camera,"₹41,999",11%,1 Year,108,12,32
+325,vivo V50 5G Elite Edition,Rose Red,12 GB,512 GB,6000 mAh,4.2,,4.2,3,50MP + 50MP | 50MP Front Camera,"₹41,999",17%,1 Year,50,50,50
+326,IQOO Neo 9 Pro,Conqueror Black,8 GB,256 GB,5160 mAh,4.5,,4.5,16,50MP Rear Camera,"₹41,990",,1 Year,50,,
+327,vivo V23 Pro 5G,Sunshine Gold,12 GB,256 GB,,4.2,"1,826",4.2,202,108MP + 8MP + 2MP | 50MP + 8MP Dual Front Camera,"₹41,499",09%,1 Year,108,8,
+328,vivo V50 5G,Rose Red,12 GB,512 GB,6000 mAh,4.5,"1,333",4.5,128,50MP + 50MP | 50MP Front Camera,"₹40,999",16%,1 Year,50,50,50
+329,vivo V50 5G,Titanium Grey,12 GB,512 GB,6000 mAh,4.5,"1,333",4.5,128,50MP + 50MP | 50MP Front Camera,"₹40,999",16%,1 Year,50,50,50
+330,vivo V50 5G,Starry Night,12 GB,512 GB,6000 mAh,4.5,"1,333",4.5,128,50MP + 50MP | 50MP Front Camera,"₹40,999",16%,1 Year,50,50,50
+331,OPPO Reno 12 Pro 5G,Sunset Gold,12 GB,512 GB,5000 mAh,4.4,"5,172",4.4,420,50MP + 8MP + 50MP | 50MP Front Camera,"₹40,999",26%,1 Year,50,8,50
+332,OPPO Reno 12 Pro 5G,Space Brown,12 GB,512 GB,5000 mAh,4.4,"5,172",4.4,420,50MP + 8MP + 50MP | 50MP Front Camera,"₹40,999",26%,1 Year,50,8,50
+333,IQOO 3,Quantum Silver,8 GB,256 GB,,4.5,"18,211",4.5,834,48MP + 13MP + 13MP + 2MP | 16MP Front Camera,,,1 Year,48,13,16
+334,OnePlus 9RT 5G,Nano Silver,8 GB,128 GB,4500 mAh,4.3,,4.3,58,50MP Rear Camera,,,,50,,
+335,Tecno Camon 30 Premier 5G,Snowy Silver,12 GB,512 GB,5000 mAh,4.2,,4.2,4,50MP + 50MP + 50MP | 50MP Front Camera,"₹39,999",16%,1 Year,50,50,50
+336,OnePlus 10R 5G,Sierra Black,12 GB,256 GB,4500 mAh,4.3,"2,427",4.3,159,50MP Rear Camera,"₹39,999",96%,1 Year,50,,
+337,OnePlus 9RT 5G,Hacker Black,8 GB,128 GB,4500 mAh,4.3,,4.3,58,50MP Rear Camera,"₹39,999",96%,,50,,
+338,vivo V29 Pro 5G,Blue,12 GB,256 GB,4600 mAh,4.5,"1,743",4.5,208,50MP + 12MP + 8MP | 50MP Front Camera,"₹39,999",16%,1 Year,50,12,50
+339,vivo V29 Pro 5G,Black,8 GB,256 GB,4600 mAh,4.5,"6,250",4.5,908,50MP + 12MP + 8MP | 50MP Front Camera,,,1 Year,50,12,50
+340,Honor 200 Pro 5G,Ocean Cyan,12 GB,512 GB,5200 mAh,427,,427,3,50MP + 50MP + 12MP | 50MP Front Camera,"₹39,999",33%,,50,50,50
+341,SAMSUNG Galaxy S21 FE 5G,Lavender,8 GB,128 GB,,4.3,,4.3,100,12MP + 12MP + 8MP (OIS) | 32MP Front Camera,"₹39,999",46%,1 Year,12,12,32
+342,Tecno Camon 30 Premier 5G,Lava Black,12 GB,512 GB,5000 mAh,4.2,,4.2,4,50MP + 50MP + 50MP | 50MP Front Camera,"₹39,999",16%,1 Year,50,50,50
+343,Tecno Camon 30 Premier 5G,Snowy Silver,12 GB,512 GB,5000 mAh,4.2,,4.2,4,50MP + 50MP + 50MP | 50MP Front Camera,"₹39,999",16%,1 Year,50,50,50
+344,Samsung Galaxy S21 FE 5G with Snapdragon 888,Olive,8 GB,256 GB,,4.3,,4.3,100,12MP + 12MP + 8MP (OIS) | 32MP Front Camera,"₹39,990",38%,1 Year,12,12,32
+345,vivo X50,Glaze Black,8 GB,128 GB,,4.3,"2,107",4.3,240,48MP + 13MP + 8MP + 5MP | 32MP Front Camera,,,1 Year,48,13,32
+346,vivo V23 Pro 5G,Stardust Black,12 GB,256 GB,,4.2,"1,826",4.2,202,108MP + 8MP + 2MP | 50MP + 8MP Dual Front Camera,"₹39,990",12%,1 Year,108,8,
+347,Apple iPhone SE,Black,,64 GB,,4.5,,4.5,986,12MP Rear Camera | 7MP Front Camera,,,,12,,7
+348,Apple iPhone SE,Black,,64 GB,,4.5,,4.5,986,12MP Rear Camera | 7MP Front Camera,,,,12,,7
+349,OnePlus 13R 5G,Nebula Noir,12 GB,256 GB,6000 mAh,4.5,"1,521",4.5,126,50MP Rear Camera,"₹39,804",11%,,50,,
+350,OnePlus 13R 5g,Astral Trail,12 GB,256 GB,6000 mAh,4.5,"1,521",4.5,126,50MP Rear Camera,"₹39,644",11%,,50,,
+351,Xiaomi 14 CIVI,Shadow Black,12 GB,512 GB,4700 mAh,4.3,,4.3,60,50MP Rear Camera | 32MP + 32MP Dual Front Camera,"₹38,999",35%,1 Year,50,,
+352,SAMSUNG Galaxy A56 5G,Awesome Olive,8 GB,128 GB,5000 mAh,4.3,,4.3,22,50MP + 12MP + 5MP | 12MP Front Camera,"₹38,999",15%,1 Year,50,12,12
+353,Xiaomi 14 CIVI,Cruise Blue,12 GB,512 GB,4700 mAh,4.3,,4.3,60,50MP Rear Camera | 32MP + 32MP Dual Front Camera,"₹38,999",35%,1 Year,50,,
+354,OPPO Reno8T 5G,Midnight Black,8 GB,128 GB,,4.3,"17,838",4.3,462,108MP + 2MP + 2MP | 32MP Front Camera,,,1 Year,108,2,32
+355,vivo V23 Pro 5G,Stardust Black,8 GB,128 GB,,4.3,"4,224",4.3,422,108MP + 8MP + 2MP | 50MP + 8MP Dual Front Camera,"₹38,990",07%,1 Year,108,8,
+356,vivo V23 Pro 5G,Sunshine Gold,8 GB,128 GB,,4.3,"4,224",4.3,422,108MP + 8MP + 2MP | 50MP + 8MP Dual Front Camera,"₹38,990",07%,1 Year,108,8,
+357,OnePlus 11 5G,Titan Black,8 GB,128 GB,5000 mAh,4.4,"1,243",4.4,121,50MP Rear Camera | 16MP Front Camera,"₹38,989",31%,,50,,16
+358,OnePlus 12R,Sunset Dune,8 GB,256 GB,5500 mAh,4.5,"7,332",4.5,476,50MP Rear Camera,"₹38,900",99%,1 Year,50,,
+359,Honor 200 Pro 5G,Black,12 GB,512 GB,5200 mAh,427,,427,3,50MP + 50MP + 12MP | 50MP Front Camera,"₹38,000",36%,,50,50,50
+360,SAMSUNG Galaxy A55 5G,Awesome Iceblue,12 GB,256 GB,5000 mAh,4.3,,4.3,38,50MP + 12MP + 5MP | 32MP Front Camera,"₹36,999",24%,1 Year,50,12,32
+361,OPPO Reno 12 Pro 5G,Manish Malhotra Limited Edition,12 GB,256 GB,5000 mAh,4.4,"5,172",4.4,420,50MP + 8MP + 50MP | 50MP Front Camera,"₹36,999",31%,1 Year,50,8,50
+362,SAMSUNG Galaxy A36 5G,Awesome Lavender,12 GB,256 GB,5000 mAh,4.2,,4.2,8,50MP + 8MP | 12MP Front Camera,"₹36,999",11%,1 Year,50,8,12
+363,Xiaomi 14 CIVI,Matcha Green,8 GB,256 GB,4700 mAh,4.3,"1,403",4.3,175,50MP Rear Camera | 32MP + 32MP Dual Front Camera,"₹36,999",32%,1 Year,50,,
+364,OPPO Reno 12 Pro 5G,Sunset Gold,12 GB,256 GB,5000 mAh,4.4,"5,172",4.4,420,50MP + 8MP + 50MP | 50MP Front Camera,"₹36,999",31%,1 Year,50,8,50
+365,OPPO Reno 12 Pro 5G,Space Brown,12 GB,256 GB,5000 mAh,4.4,"5,172",4.4,420,50MP + 8MP + 50MP | 50MP Front Camera,"₹36,999",31%,1 Year,50,8,50
+366,vivo V27 5G,Magic Blue,12 GB,256 GB,4600 mAh,4.4,"3,679",4.4,369,50MP (OIS) + 8MP + 2MP | 50MP Front Camera,"₹36,999",99%,1 Year,50,,50
+367,Xiaomi 14 CIVI,Cruise Blue,8 GB,256 GB,4700 mAh,4.3,"1,403",4.3,175,50MP Rear Camera | 32MP + 32MP Dual Front Camera,"₹36,999",32%,1 Year,50,,
+368,vivo V50 5G,Rose Red,8 GB,256 GB,6000 mAh,4.5,"4,605",4.5,442,50MP + 50MP | 50MP Front Camera,"₹36,999",13%,1 Year,50,50,50
+369,vivo V50,ROSE RED,8 GB,256 GB,6000 mAh,,,,,50MP Rear Camera,"₹36,999",13%,,50,,
+370,OPPO Reno13 5G,Sky Blue,8 GB,256 GB,5600 mAh,4.4,"3,311",4.4,418,50MP + 8MP + 2MP | 50MP Front Camera,"₹36,999",15%,1 Year,50,8,50
+371,vivo V50 5G,Starry Night,8 GB,256 GB,6000 mAh,4.5,"4,605",4.5,442,50MP + 50MP | 50MP Front Camera,"₹36,999",13%,1 Year,50,50,50
+372,vivo V50 5G,Titanium Grey,8 GB,256 GB,6000 mAh,4.5,"4,605",4.5,442,50MP + 50MP | 50MP Front Camera,"₹36,999",13%,1 Year,50,50,50
+373,vivo V40 5G,Lotus Purple,8 GB,256 GB,5500 mAh,4.5,"8,557",4.5,892,50MP + 50MP | 50MP Front Camera,"₹36,998",13%,1 Year,50,50,50
+374,OnePlus 10 Pro 5G,Volcanic Black,8 GB,128 GB,5000 mAh,4.2,,4.2,50,48MP Rear Camera | 32MP Front Camera,"₹36,990",44%,1 Year,48,,32
+375,OnePlus 11 5G,Eternal Green,8 GB,128 GB,5000 mAh,4.4,"1,243",4.4,121,50MP Rear Camera,"₹36,498",35%,,50,,
+376,OPPO RENO 13 5G,"LUMINOUS BLUE, IVORY WHITE",8 GB,128 GB,5600 mAh,,,,,50MP Rear Camera,"₹36,490",13%,1 Year,50,,
+377,Xiaomi 12 Pro 5G,Noir Black,8 GB,256 GB,,4.1,,4.1,95,50MP + 50MP + 50MP | 32MP Front Camera,"₹36,299",54%,1 Year,50,50,32
+378,Xiaomi 12 Pro 5G,Couture Blue,8 GB,256 GB,,4.1,,4.1,95,50MP + 50MP + 50MP | 32MP Front Camera,"₹36,000",54%,1 Year,50,50,32
+379,vivo V40 5G,Titanium Grey,8 GB,128 GB,5500 mAh,4.5,"8,557",4.5,892,50MP + 50MP | 50MP Front Camera,"₹35,999",10%,1 Year,50,50,50
+380,vivo V25 Pro 5G,Sailing Blue,8 GB,128 GB,,4.3,"7,648",4.3,931,64MP + 8MP + 2MP | 32MP Front Camera,"₹35,999",10%,1 Year,64,8,32
+381,vivo V30 5G,Peacock Green,12 GB,256 GB,5000 mAh,4.5,"1,148",4.5,97,50MP + 50MP | 50MP Front Camera,"₹35,999",14%,1 Year,50,50,50
+382,OnePlus 11 5G,Eternal Green,8 GB,128 GB,5000 mAh,4.4,"1,243",4.4,121,50MP Rear Camera | 16MP Front Camera,"₹35,999",36%,,50,,16
+383,realme X2 Pro,Neptune Blue,12 GB,256 GB,4000 mAh,4.6,"7,969",4.6,196,64MP + 13MP + 8MP + 2MP | 16MP Front Camera,,,1 Year,64,13,16
+384,Motorola Edge 30 Pro,Stardust White,8 GB,128 GB,,,,,374,50MP + 50MP + 2MP | 60MP Front Camera,"₹34,999",37%,1 Year,50,50,60
+385,vivo V20 Pro,Midnight Jazz,8 GB,128 GB,,4.4,"9,201",4.4,892,64MP + 8MP + 2MP | 44MP + 8MP Dual Front Camera,,,1 Year,64,8,
+386,vivo V30 5G,Classic Black,12 GB,256 GB,5000 mAh,4.5,"1,148",4.5,97,50MP + 50MP | 50MP Front Camera,"₹34,990",18%,1 Year,50,50,50
+387,vivo V15 Pro,Topaz Blue,8 GB,128 GB,,4.5,"3,046",4.5,251,"48 Million Quad Pixel Sensor (12 Million Effective Pixel) + 8MP + 5MP, AI Triple Rear Camera | 32MP Front Camera",,,1 Year,,,32
+388,SAMSUNG Galaxy A55 5G,Awesome Navy,12 GB,256 GB,5000 mAh,4.3,,4.3,38,50MP + 12MP + 5MP | 32MP Front Camera,"₹34,975",28%,1 Year,50,12,32
+389,Apple iPhone 6s Plus,Gold,,32 GB,,4.4,"18,772",4.4,356,12MP Rear Camera | 5MP Front Camera,,,1 Year,12,,5
+390,IQOO NEO9 PRO,Fiery Red,8 GB,128 GB,5160 mAh,4.5,,4.5,43,50MP Rear Camera,"₹34,599",13%,1 Year,50,,
+391,SAMSUNG Galaxy A36 5G,Awesome Lavender,8 GB,256 GB,5000 mAh,4.3,,4.3,47,50MP + 8MP | 12MP Front Camera,"₹33,999",12%,1 Year,50,8,12
+392,POCO F6 5G,Black,12 GB,512 GB,5000 mAh,4.3,"7,060",4.3,701,50MP (OIS) + 8MP | 20MP Front Camera,"₹33,999",10%,1 Year,50,,20
+393,realme GT Neo 3T,Drifting White,8 GB,256 GB,,4.3,"16,169",4.3,508,64MP + 8MP + 2MP | 16MP Front Camera,"₹33,999",12%,1 Year,64,8,16
+394,MOTOROLA Edge 60 Pro,Pantone Sparkling Grape,12 GB,256 GB,6000 mAh,4.4,"2,031",4.4,249,50MP + 50MP + 10MP | 50MP Front Camera,"₹33,999",17%,1 Year,50,50,50
+395,SAMSUNG Galaxy A36 5G,Awesome White,8 GB,256 GB,5000 mAh,4.3,,4.3,47,50MP + 8MP | 12MP Front Camera,"₹33,999",12%,1 Year,50,8,12
+396,SAMSUNG Galaxy A36 5G,Awesome Black,8 GB,256 GB,5000 mAh,4.3,,4.3,47,50MP + 8MP | 12MP Front Camera,"₹33,999",12%,1 Year,50,8,12
+397,POCO F5 5G,Snowstorm White,12 GB,256 GB,5000 mAh,4.3,"5,607",4.3,663,64MP (OIS) + 8MP + 2MP | 16MP Front Camera,"₹33,999",15%,2 Year,64,,16
+398,POCO F4 5G,Night Black,12 GB,256 GB,,4.3,"5,788",4.3,742,64MP + 8MP + 2MP | 20MP Front Camera,"₹33,999",15%,2 Year,64,8,20
+399,POCO F4 5G,Nebula Green,12 GB,256 GB,,4.3,"5,788",4.3,742,64MP + 8MP + 2MP | 20MP Front Camera,"₹33,999",15%,2 Year,64,8,20
+400,MOTOROLA Edge 60 Pro,Pantone Dazzling Blue,12 GB,256 GB,6000 mAh,4.4,"2,031",4.4,249,50MP + 50MP + 10MP | 50MP Front Camera,"₹33,999",17%,1 Year,50,50,50
+401,POCO F5 5G,Carbon Black,12 GB,256 GB,5000 mAh,4.3,"5,607",4.3,663,64MP (OIS) + 8MP + 2MP | 16MP Front Camera,"₹33,999",15%,2 Year,64,,16
+402,POCO F6 5G,Titanium,12 GB,512 GB,5000 mAh,4.3,"7,060",4.3,701,50MP (OIS) + 8MP | 20MP Front Camera,"₹33,999",10%,1 Year,50,,20
+403,SAMSUNG Galaxy A55 5G,Awesome Iceblue,8 GB,256 GB,5000 mAh,4.4,"1,562",4.4,137,50MP + 12MP + 5MP | 32MP Front Camera,"₹33,990",26%,1 Year,50,12,32
+404,SAMSUNG Galaxy S21 FE 5G,Graphite,8 GB,128 GB,,4.3,,4.3,100,12MP + 12MP + 8MP (OIS) | 32MP Front Camera,"₹33,698",55%,1 Year,12,12,32
+405,IQOO Neo 10R 5G,MoonKnight Titanium,12 GB,256 GB,6400 mAh,4.6,,4.6,12,50MP Rear Camera,"₹33,689",96%,1 Year,50,,
+406,realme GT 6T 5G,Fluid Silver,12 GB,512 GB,5500 mAh,4.5,"1,079",4.5,100,50MP Rear Camera,"₹33,495",20%,1 Year,50,,
+407,OnePlus 9R 5G,Lake Blue,8 GB,128 GB,4500 mAh,411,,411,10,48MP Rear Camera,"₹33,490",16%,1 Year,48,,
+408,realme X7 Max,Asteroid Black,12 GB,256 GB,4500 mAh,4.3,"13,420",4.3,829,64MP + 8MP + 2MP | 16MP Front Camera,,,1 Year,64,8,16
+409,realme X7 Max,Mercury Silver,12 GB,256 GB,4500 mAh,4.3,"13,420",4.3,829,64MP + 8MP + 2MP | 16MP Front Camera,,,1 Year,64,8,16
+410,SAMSUNG Galaxy A54 5G,Awesome Lime,8 GB,128 GB,5000 mAh,4.3,"4,881",4.3,401,50MP + 12MP + 5MP | 32MP Front Camera,"₹32,999",21%,1 Year,50,12,32
+411,SAMSUNG Galaxy A72,Awesome Black,8 GB,128 GB,,4.3,,4.3,31,64MP + 12MP + 8MP + 5MP | 32MP Front Camera,"₹32,990",21%,1 Year,64,12,32
+412,OPPO Reno 12 5G,MATTE BROWN,8 GB,256 GB,5000 mAh,4.4,"3,546",4.4,241,50MP + 50MP | 32MP + 32MP Dual Front Camera,"₹32,899",25%,,50,50,
+413,OnePlus Nord 2 5G,Blue Haze,12 GB,256 GB,4500 mAh,4.2,,4.2,29,50MP Rear Camera,"₹32,890",96%,,50,,
+414,SAMSUNG Galaxy F54 5G,Meteor Blue,8 GB,256 GB,6000 mAh,4.2,"30,430",4.2,596,108MP + 8MP + 2MP | 32MP Front Camera,"₹31,999",11%,1 Year,108,8,32
+415,REDMI Note 14 Pro+ 5G,Phantom Purple,8 GB,256 GB,6200 mAh,4.3,"1,827",4.3,180,50MP + 50MP + 8MP | 20MP Front Camera,"₹31,999",13%,1 Year,50,50,20
+416,REDMI Note 14 Pro+ 5G,Spectre Blue,8 GB,256 GB,6200 mAh,4.3,"1,827",4.3,180,50MP + 50MP + 8MP | 20MP Front Camera,"₹31,999",13%,1 Year,50,50,20
+417,REDMI Note 14 Pro+ 5G,Titan Black,8 GB,256 GB,6200 mAh,4.3,"1,827",4.3,180,50MP + 50MP + 8MP | 20MP Front Camera,"₹31,999",13%,1 Year,50,50,20
+418,realme 14 Pro+ 5G,Bikaner Purple,8 GB,256 GB,6000 mAh,4.4,"7,721",4.4,119,50MP + 50MP + 8MP | 32MP Front Camera,"₹31,999",11%,1 Year,50,50,32
+419,OPPO F29 Pro 5G,Marble White,12 GB,256 GB,6000 mAh,4.4,,4.4,19,50MP + 2MP | 16MP Front Camera,"₹31,999",13%,1 Year,50,2,16
+420,realme X2 Pro,Neptune Blue,8 GB,128 GB,4000 mAh,4.5,"20,799",4.5,225,64MP + 13MP + 8MP + 2MP | 16MP Front Camera,,,1 Year,64,13,16
+421,realme 14 Pro+ 5G,Pearl White,8 GB,256 GB,6000 mAh,4.4,"7,721",4.4,119,50MP + 50MP + 8MP | 32MP Front Camera,"₹31,999",11%,1 Year,50,50,32
+422,realme 14 Pro+ 5G,Suede Grey,8 GB,256 GB,6000 mAh,4.4,"7,721",4.4,119,50MP + 50MP + 8MP | 32MP Front Camera,"₹31,999",11%,1 Year,50,50,32
+423,Nothing Phone,3a) Pro (Grey,8 GB,256 GB,5000 mAh,4.5,"3,969",4.5,420,50MP (Main) + 50MP (3X Periscope)+ 8MP (Ultra-Wide) | 50MP Front Camera,"₹31,999",98%,1 Year,50,,50
+424,POCO F6 5G,Black,12 GB,256 GB,5000 mAh,4.3,"7,060",4.3,701,50MP (OIS) + 8MP | 20MP Front Camera,"₹31,999",11%,1 Year,50,,20
+425,Nothing Phone,3a) Pro (Black,8 GB,256 GB,5000 mAh,4.5,"3,969",4.5,420,50MP (Main) + 50MP (3X Periscope)+ 8MP (Ultra-Wide) | 50MP Front Camera,"₹31,999",98%,1 Year,50,,50
+426,realme GT Neo 3T,Shade Black,8 GB,128 GB,,4.3,"16,169",4.3,508,64MP + 8MP + 2MP | 16MP Front Camera,"₹31,999",13%,1 Year,64,8,16
+427,realme X3 SuperZoom,Glacier Blue,8 GB,256 GB,4200 mAh,4.3,"11,247",4.3,169,64MP + 8MP + 8MP + 2MP | 32MP + 8MP Dual Front Camera,,,1 Year,64,8,
+428,realme GT Neo 3T,Dash Yellow,8 GB,128 GB,,4.3,"16,169",4.3,508,64MP + 8MP + 2MP | 16MP Front Camera,"₹31,999",13%,1 Year,64,8,16
+429,realme GT 6,Razor Green,8 GB,256 GB,5500 mAh,4.5,"3,032",4.5,335,50MP + 8MP + 50MP | 32MP Front Camera,"₹31,999",27%,1 Year,50,8,32
+430,realme GT Neo 3T,Drifting White,8 GB,128 GB,,4.3,"16,169",4.3,508,64MP + 8MP + 2MP | 16MP Front Camera,"₹31,999",13%,1 Year,64,8,16
+431,vivo T3 Ultra,Lunar Gray,12 GB,256 GB,5500 mAh,4.5,"8,342",4.5,667,50MP + 8MP | 50MP Front Camera,"₹31,999",20%,1 Year,50,8,50
+432,OPPO F29 Pro 5G,Marble White,12 GB,256 GB,6000 mAh,4.4,,4.4,19,50MP + 2MP | 16MP Front Camera,"₹31,999",13%,1 Year,50,2,16
+433,realme 14 Pro+ 5G,Suede Grey,8 GB,256 GB,6000 mAh,4.4,"7,721",4.4,119,50MP + 50MP + 8MP | 32MP Front Camera,"₹31,999",11%,1 Year,50,50,32
+434,REDMI Note 14 Pro+ 5G,Titan Black,8 GB,256 GB,6200 mAh,4.3,"1,827",4.3,180,50MP + 50MP + 8MP | 20MP Front Camera,"₹31,999",13%,1 Year,50,50,20
+435,realme 14 Pro+ 5G,Pearl White,8 GB,256 GB,6000 mAh,4.4,"7,721",4.4,119,50MP + 50MP + 8MP | 32MP Front Camera,"₹31,999",11%,1 Year,50,50,32
+436,REDMI Note 14 Pro+ 5G,Spectre Blue,8 GB,256 GB,6200 mAh,4.3,"1,827",4.3,180,50MP + 50MP + 8MP | 20MP Front Camera,"₹31,999",13%,1 Year,50,50,20
+437,realme X2 Pro,Neptune Blue,8 GB,128 GB,4000 mAh,4.5,"20,799",4.5,225,64MP + 13MP + 8MP + 2MP | 16MP Front Camera,,,1 Year,64,13,16
+438,vivo T3 Ultra,Frost Green,12 GB,256 GB,5500 mAh,4.5,"8,342",4.5,667,50MP + 8MP | 50MP Front Camera,"₹31,999",20%,1 Year,50,8,50
+439,vivo T3 Ultra,Lunar Gray,12 GB,256 GB,5500 mAh,4.5,"8,342",4.5,667,50MP + 8MP | 50MP Front Camera,"₹31,999",20%,1 Year,50,8,50
+440,SAMSUNG Galaxy A53,Awesome Blue,6 GB,128 GB,,4.1,,4.1,91,64MP + 12MP + 5MP + 5MP | 32MP Front Camera,"₹31,999",17%,1 Year,64,12,32
+441,Nothing Phone,3a) Pro (Grey,8 GB,256 GB,5000 mAh,4.5,"3,969",4.5,420,50MP (Main) + 50MP (3X Periscope)+ 8MP (Ultra-Wide) | 50MP Front Camera,"₹31,999",98%,1 Year,50,,50
+442,realme GT Neo 3T,Drifting White,8 GB,128 GB,,4.3,"16,169",4.3,508,64MP + 8MP + 2MP | 16MP Front Camera,"₹31,999",13%,1 Year,64,8,16
+443,Nothing Phone,3a) Pro (Black,8 GB,256 GB,5000 mAh,4.5,"3,969",4.5,420,50MP (Main) + 50MP (3X Periscope)+ 8MP (Ultra-Wide) | 50MP Front Camera,"₹31,999",98%,1 Year,50,,50
+444,realme GT 6,Razor Green,8 GB,256 GB,5500 mAh,4.5,"3,032",4.5,335,50MP + 8MP + 50MP | 32MP Front Camera,"₹31,999",27%,1 Year,50,8,32
+445,POCO F6 5G,Black,12 GB,256 GB,5000 mAh,4.3,"7,060",4.3,701,50MP (OIS) + 8MP | 20MP Front Camera,"₹31,999",11%,1 Year,50,,20
+446,realme GT Neo 3T,Shade Black,8 GB,128 GB,,4.3,"16,169",4.3,508,64MP + 8MP + 2MP | 16MP Front Camera,"₹31,999",13%,1 Year,64,8,16
+447,realme X3 SuperZoom,Glacier Blue,8 GB,256 GB,4200 mAh,4.3,"11,247",4.3,169,64MP + 8MP + 8MP + 2MP | 32MP + 8MP Dual Front Camera,,,1 Year,64,8,
+448,realme GT Neo 3T,Dash Yellow,8 GB,128 GB,,4.3,"16,169",4.3,508,64MP + 8MP + 2MP | 16MP Front Camera,"₹31,999",13%,1 Year,64,8,16
+449,vivo X70 Pro,Aurora Dawn,8 GB,256 GB,4450 mAh,4.5,"3,856",4.5,686,50MP + 12MP + 12MP + 8MP | 32MP Front Camera,"₹31,990",41%,1 Year,50,12,32
+450,IQOO Z9S PRO 5G,Orange,8 GB,256 GB,5500 mAh,4.5,"2,422",4.5,158,50MP Rear Camera,"₹31,990",,,50,,
+451,SAMSUNG Galaxy A55 5G,Awesome Navy,8 GB,256 GB,5000 mAh,4.4,"1,562",4.4,137,50MP + 12MP + 5MP | 32MP Front Camera,"₹31,990",30%,1 Year,50,12,32
+452,vivo V27 5G,Magic Blue,8 GB,128 GB,4600 mAh,4.4,"28,205",4.4,925,50MP (OIS) + 8MP + 2MP | 50MP Front Camera,"₹31,949",13%,1 Year,50,,50
+453,REDMI Note,Spectre Blue,8 GB,256 GB,6200 mAh,441,,441,1,50MP + 50MP + 8MP | 20MP Front Camera,"₹31,457",14%,1 Year,50,50,20
+454,REDMI Note,Phantom Purple,8 GB,256 GB,6200 mAh,441,,441,1,50MP + 50MP + 8MP | 20MP Front Camera,"₹31,390",15%,1 Year,50,50,20
+455,REDMI Note,Titan Black,8 GB,256 GB,6200 mAh,441,,441,1,50MP + 50MP + 8MP | 20MP Front Camera,"₹31,073",16%,1 Year,50,50,20
+456,SAMSUNG Galaxy A70s,Prism Crush Black,6 GB,128 GB,,4.3,"4,927",4.3,466,64MP + 5MP + 8MP | 32MP Front Camera,,,1 Year,64,5,32
+457,SAMSUNG Galaxy A36 5G,Awesome Black,8 GB,128 GB,5000 mAh,4.3,,4.3,47,50MP + 8MP | 12MP Front Camera,"₹30,999",13%,1 Year,50,8,12
+458,Google Pixel 7,Snow,8 GB,128 GB,4270 mAh,4.3,"18,822",4.3,085,50MP + 12MP | 10.8MP Front Camera,"₹30,999",48%,,50,12,8
+459,Google Pixel 7,Obsidian,8 GB,128 GB,4270 mAh,4.3,"18,822",4.3,085,50MP + 12MP | 10.8MP Front Camera,"₹30,999",48%,1 Year,50,12,8
+460,Google Pixel 7,Lemongrass,8 GB,128 GB,4270 mAh,4.3,"18,822",4.3,085,50MP + 12MP | 10.8MP Front Camera,"₹30,999",48%,1 Year,50,12,8
+461,SAMSUNG Galaxy F56 5G,Green,8 GB,256 GB,5000 mAh,4.2,,4.2,0,50MP + 8MP + 2MP | 12MP Front Camera,"₹30,999",98%,1 Year,50,8,12
+462,vivo V30 5G,Classic Black,8 GB,256 GB,5000 mAh,4.5,"7,936",4.5,703,50MP + 50MP | 50MP Front Camera,"₹30,999",24%,1 Year,50,50,50
+463,SAMSUNG Galaxy F56 5G,Violet,8 GB,256 GB,5000 mAh,4.2,,4.2,0,50MP + 8MP + 2MP | 12MP Front Camera,"₹30,999",98%,1 Year,50,8,12
+464,SAMSUNG Galaxy A36 5G,Awesome White,8 GB,128 GB,5000 mAh,4.3,,4.3,47,50MP + 8MP | 12MP Front Camera,"₹30,999",13%,1 Year,50,8,12
+465,vivo V50e 5G,Sapphire Blue,8 GB,256 GB,5600 mAh,4.4,,4.4,52,50MP + 8MP | 50MP Front Camera,"₹30,999",13%,1 Year,50,8,50
+466,vivo V50e 5G,Pearl White,8 GB,256 GB,5600 mAh,4.4,,4.4,52,50MP + 8MP | 50MP Front Camera,"₹30,999",13%,1 Year,50,8,50
+467,realme GT 6,Fluid Silver,8 GB,256 GB,5500 mAh,4.5,"3,032",4.5,335,50MP + 8MP + 50MP | 32MP Front Camera,"₹30,999",29%,1 Year,50,8,32
+468,vivo V19,Piano Black,8 GB,128 GB,,4.4,"13,491",4.4,322,48MP + 8MP + 2MP + 2MP | 32MP + 8MP Dual Front Camera,,,1 Year,48,8,
+469,IQOO Neo 10R 5G,MoonKnight Titanium,8 GB,256 GB,6400 mAh,4.5,,4.5,29,50MP Rear Camera,"₹30,892",99%,1 Year,50,,
+470,IQOO Neo 10R 5G,Raging Blue,8 GB,256 GB,6400 mAh,4.5,,4.5,29,50MP Rear Camera,"₹30,777",99%,1 Year,50,,
+471,realme GT 6T 5G,Razor Green,8 GB,256 GB,5500 mAh,4.5,"2,888",4.5,220,50MP Rear Camera,"₹30,600",14%,1 Year,50,,
+472,REDMI Note 12 Pro+ 5G,Obsidian Black,12 GB,256 GB,,4.2,"7,955",4.2,800,200MP + 8MP + 2MP | 16MP Front Camera,"₹30,499",17%,1 Year,200,8,16
+473,OnePlus Nord 4 5G,Mercurial Silver,12 GB,256 GB,5500 mAh,4.5,,4.5,29,50MP Rear Camera,,,1 Year,50,,
+474,realme X3 SuperZoom,Arctic White,8 GB,256 GB,4200 mAh,4.3,"11,247",4.3,169,64MP + 8MP + 8MP + 2MP | 32MP + 8MP Dual Front Camera,"₹30,049",96%,1 Year,64,8,
+475,OPPO F29 Pro 5G,Marble White,8 GB,256 GB,6000 mAh,4.4,,4.4,60,50MP + 2MP | 16MP Front Camera,"₹29,999",14%,1 Year,50,2,16
+476,REDMI Note 14 Pro+ 5G,Spectre Blue,8 GB,128 GB,6200 mAh,4.3,"1,827",4.3,180,50MP + 50MP + 8MP | 20MP Front Camera,"₹29,999",14%,1 Year,50,50,20
+477,REDMI Note 14 Pro+ 5G,Titan Black,8 GB,128 GB,6200 mAh,4.3,"1,827",4.3,180,50MP + 50MP + 8MP | 20MP Front Camera,"₹29,999",14%,1 Year,50,50,20
+478,REDMI Note 14 Pro+ 5G,Phantom Purple,8 GB,128 GB,6200 mAh,4.3,"1,827",4.3,180,50MP + 50MP + 8MP | 20MP Front Camera,"₹29,999",14%,1 Year,50,50,20
+479,MOTOROLA Edge 60 Pro,Pantone Dazzling Blue,8 GB,256 GB,6000 mAh,4.4,"4,063",4.4,448,50MP + 50MP + 10MP | 50MP Front Camera,"₹29,999",18%,1 Year,50,50,50
+480,OPPO Reno8T 5G,Sunrise Gold,8 GB,128 GB,,4.3,"17,838",4.3,462,108MP + 2MP + 2MP | 32MP Front Camera,,,1 Year,108,2,32
+481,OPPO Reno10 Pro 5G,Glossy Purple,12 GB,256 GB,4600 mAh,4.3,"11,280",4.3,186,50MP + 32MP + 8MP | 32MP Front Camera,"₹29,670",33%,1 Year,50,32,32
+482,SAMSUNG Galaxy A34 5G,Awesome Graphite,8 GB,256 GB,,4.3,"7,092",4.3,562,48MP + 8MP + 5MP | 13MP Front Camera,"₹29,499",25%,,48,8,13
+483,realme GT 6T 5G,Fluid Silver,12 GB,256 GB,5500 mAh,4.5,"1,079",4.5,100,50MP Rear Camera,"₹29,440",22%,1 Year,50,,
+484,SAMSUNG Galaxy A55 5G,Awesome Iceblue,8 GB,128 GB,5000 mAh,4.4,"1,562",4.4,137,50MP + 12MP + 5MP | 32MP Front Camera,"₹29,295",31%,1 Year,50,12,32
+485,SAMSUNG Galaxy S20 FE 5G,Cloud Navy,8 GB,128 GB,4500 mAh,4.2,"3,486",4.2,229,12MP Rear Camera,"₹29,000",56%,1 Year,12,,
+486,OnePlus Nord 3 5G,Tempest Gray,8 GB,128 GB,5000 mAh,4.3,"16,001",4.3,266,50MP Rear Camera,"₹29,000",14%,1 Year,50,,
+487,POCO X6 Pro 5G,Yellow,12 GB,512 GB,5000 mAh,4.3,"16,450",4.3,840,64MP + 8MP + 2MP | 16MP Front Camera,"₹28,999",12%,1 Year,64,8,16
+488,POCO X6 Pro 5G,Racing Grey,12 GB,512 GB,5000 mAh,4.3,"16,450",4.3,840,64MP + 8MP + 2MP | 16MP Front Camera,"₹28,999",12%,1 Year,64,8,16
+489,vivo V50e 5G,Pearl White,8 GB,128 GB,5600 mAh,4.4,,4.4,52,50MP + 8MP | 50MP Front Camera,"₹28,999",14%,1 Year,50,8,50
+490,vivo V50e 5G,Sapphire Blue,8 GB,128 GB,5600 mAh,4.4,,4.4,52,50MP + 8MP | 50MP Front Camera,"₹28,999",14%,1 Year,50,8,50
+491,Honor 90 5G,Midnight Black,12 GB,512 GB,5000 mAh,4.2,"1,630",4.2,164,200MP Rear Camera,"₹28,999",42%,,200,,
+492,Redmi K20 Pro,Glacier Blue,6 GB,128 GB,,4.5,"83,245",4.5,887,48MP + 13MP + 8MP | 20MP Front Camera,,,1 Year,48,13,20
+493,REDMI Note 13 Pro+ 5G,Fusion Purple,12 GB,512 GB,5000 mAh,4.2,"11,200",4.2,998,200MP (OIS) + 8MP + 2MP | 16MP Front Camera,"₹28,999",23%,1 Year,200,,16
+494,Infinix Zero 40 5G,Violet Garden,12 GB,512 GB,,4.2,"1,419",4.2,185,108MP + 50MP + 2MP | 50MP Front Camera,"₹28,999",30%,1 Year,108,50,50
+495,Infinix Zero 40 5G,Moving Titanium,12 GB,512 GB,,4.2,"1,419",4.2,185,108MP + 50MP + 2MP | 50MP Front Camera,"₹28,999",30%,1 Year,108,50,50
+496,Redmi K20 Pro,Carbon Black,6 GB,128 GB,,4.5,"83,245",4.5,887,48MP + 13MP + 8MP | 20MP Front Camera,,,1 Year,48,13,20
+497,realme 13 Pro+ 5G,Monet Gold,12 GB,512 GB,5200 mAh,4.4,"8,826",4.4,852,50MP + 8MP + 50MP | 32MP Front Camera,"₹28,999",29%,1 Year,50,8,32
+498,realme 13 Pro+ 5G,Monet Purple,12 GB,512 GB,5200 mAh,4.4,"8,826",4.4,852,50MP + 8MP + 50MP | 32MP Front Camera,"₹28,999",29%,1 Year,50,8,32
+499,OnePlus 10R,Sierra Black,8 GB,128 GB,5000 mAh,4.3,"7,500",4.3,442,50MP Rear Camera,"₹28,999",27%,1 Year,50,,
+500,vivo V25 pro,Sailing Blue,8 GB,128 GB,4830 mAh,480,,480,6,64MP + 8MP + 2MP | 32MP Front Camera,"₹28,999",27%,1 Year,64,8,32
+501,vivo V30 5G,Peacock Green,8 GB,128 GB,5000 mAh,4.5,"7,936",4.5,703,50MP + 50MP | 50MP Front Camera,"₹28,990",25%,1 Year,50,50,50
+502,OnePlus Nord 2T 5G,Jade Fog,8 GB,128 GB,4500 mAh,4.3,"13,607",4.3,036,50MP Rear Camera | 32MP Front Camera,"₹28,990",,,50,,32
+503,Nokia 8.1,Blue,4 GB,64 GB,3500 mAh,4.3,"8,980",4.3,395,12MP + 13MP | 20MP Front Camera,,,,12,13,20
+504,REDMI Note 13 Pro+ 5G,Fusion Purple,12 GB,512 GB,5000 mAh,4.2,"11,200",4.2,998,200MP (OIS) + 8MP + 2MP | 16MP Front Camera,"₹28,999",23%,1 Year,200,,16
+505,Redmi K20 Pro,Glacier Blue,6 GB,128 GB,,4.5,"83,245",4.5,887,48MP + 13MP + 8MP | 20MP Front Camera,,,1 Year,48,13,20
+506,Infinix Zero 40 5G,Violet Garden,12 GB,512 GB,,4.2,"1,419",4.2,185,108MP + 50MP + 2MP | 50MP Front Camera,"₹28,999",30%,1 Year,108,50,50
+507,POCO X6 Pro 5G,Racing Grey,12 GB,512 GB,5000 mAh,4.3,"16,450",4.3,840,64MP + 8MP + 2MP | 16MP Front Camera,"₹28,999",12%,1 Year,64,8,16
+508,POCO X6 Pro 5G,Yellow,12 GB,512 GB,5000 mAh,4.3,"16,450",4.3,840,64MP + 8MP + 2MP | 16MP Front Camera,"₹28,999",12%,1 Year,64,8,16
+509,OPPO Reno10 5G,Ice Blue,8 GB,256 GB,5000 mAh,4.3,"43,131",4.3,016,64MP + 32MP + 8MP | 32MP Front Camera,"₹28,990",25%,1 Year,64,32,32
+510,Nokia 8.1,Blue,4 GB,64 GB,3500 mAh,4.3,"8,980",4.3,395,12MP + 13MP | 20MP Front Camera,,,,12,13,20
+511,REDMI Note,Titan Black,8 GB,128 GB,6200 mAh,441,,441,1,50MP + 50MP + 8MP | 20MP Front Camera,"₹28,787",17%,1 Year,50,50,20
+512,SAMSUNG Galaxy A55 5G,Awesome Navy,8 GB,128 GB,5000 mAh,4.4,"1,562",4.4,137,50MP + 12MP + 5MP | 32MP Front Camera,"₹28,750",33%,1 Year,50,12,32
+513,BlackBerry Keyone,Silver,3 GB,32 GB,3505 mAh,3.2,,3.2,2,12MP Rear Camera,"₹28,699",94%,,12,,
+514,REDMI Note,Phantom Purple,8 GB,128 GB,6200 mAh,441,,441,1,50MP + 50MP + 8MP | 20MP Front Camera,"₹28,652",18%,1 Year,50,50,20
+515,REDMI Note,Spectre Blue,8 GB,128 GB,6200 mAh,441,,441,1,50MP + 50MP + 8MP | 20MP Front Camera,"₹28,596",18%,1 Year,50,50,20
+516,realme GT 6T 5G,Miracle Purple,12 GB,256 GB,5500 mAh,4.5,"1,079",4.5,100,50MP Rear Camera,"₹28,499",25%,1 Year,50,,
+517,vivo V25 5G,Elegant Black,12 GB,256 GB,,4.3,"1,985",4.3,196,64MP + 8MP + 2MP | 50MP Front Camera,"₹28,499",22%,1 Year,64,8,50
+518,Motorola Edge 50 Pro 5G with 68W Charger,Black Beauty,8 GB,256 GB,4500 mAh,4.4,"33,908",4.4,983,50MP + 13MP + 10MP | 50MP Front Camera,"₹27,999",24%,1 Year,50,13,50
+519,Nothing Phone,2a) Plus (Black,8 GB,256 GB,5000 mAh,4.4,"12,990",4.4,934,50MP + 50MP | 50MP Front Camera,"₹27,999",96%,1 Year,50,50,50
+520,vivo V30e,Velvet Red,8 GB,256 GB,5500 mAh,4.4,"5,828",4.4,392,50MP + 8MP | 50MP Front Camera,"₹27,999",20%,1 Year,50,8,50
+521,SAMSUNG Galaxy F56 5G,Violet,8 GB,128 GB,5000 mAh,4.2,,4.2,0,50MP + 8MP + 2MP | 12MP Front Camera,"₹27,999",99%,1 Year,50,8,12
+522,Nothing Phone,2a) Plus (Grey,8 GB,256 GB,5000 mAh,4.4,"12,990",4.4,934,50MP + 50MP | 50MP Front Camera,"₹27,999",96%,1 Year,50,50,50
+523,Nothing Phone,2a) 5G (Blue,12 GB,256 GB,5000 mAh,4.4,"14,968",4.4,177,50MP (OIS) + 50MP | 32MP Front Camera,"₹27,999",96%,1 Year,50,,32
+524,Nothing Phone,2a) 5G (Black,12 GB,256 GB,5000 mAh,4.4,"14,968",4.4,177,50MP (OIS) + 50MP | 32MP Front Camera,"₹27,999",96%,1 Year,50,,32
+525,Motorola Edge 50 Pro 5G with 68W Charger,Moonlight Pearl,8 GB,256 GB,4500 mAh,4.4,"33,908",4.4,983,50MP + 13MP + 10MP | 50MP Front Camera,"₹27,999",24%,1 Year,50,13,50
+526,Nothing Phone,2a) 5G (Black,8 GB,256 GB,5000 mAh,4.4,"98,184",4.4,939,50MP (OIS) + 50MP | 32MP Front Camera,,,1 Year,50,,32
+527,realme 10 Pro+ 5G,Nebula Blue,8 GB,256 GB,5000 mAh,4.4,"26,640",4.4,121,108MP + 8MP + 2MP | 16MP Front Camera,"₹27,999",93%,1 Year,108,8,16
+528,OnePlus Nord 2T 5G,Jade Fog,8 GB,128 GB,4500 mAh,4.3,"13,607",4.3,036,50MP Rear Camera,"₹28,199",92%,,50,,
+529,SAMSUNG Galaxy A53,Awesome Peach,6 GB,128 GB,,4.1,,4.1,91,64MP + 12MP + 5MP + 5MP | 32MP Front Camera,"₹27,999",22%,1 Year,64,12,32
+530,vivo V29e 5G,Artistic Blue,8 GB,256 GB,5000 mAh,4.4,"20,455",4.4,748,64MP + 8MP | 50MP Front Camera,"₹27,999",17%,1 Year,64,8,50
+531,Honor 90 5G,Emerald Green,8 GB,256 GB,5000 mAh,4.2,,4.2,70,200MP Rear Camera,"₹27,999",41%,,200,,
+532,Motorola Edge 50 Pro 5G with 68W Charger,Luxe Lavender,8 GB,256 GB,4500 mAh,4.4,"33,908",4.4,983,50MP + 13MP + 10MP | 50MP Front Camera,"₹27,999",24%,1 Year,50,13,50
+533,Google Pixel 7a,Sea,8 GB,128 GB,4300 mAh,4.1,"27,076",4.1,683,64MP (OIS) + 13MP | 13MP Front Camera,"₹27,999",36%,1 Year,64,,13
+534,Google Pixel 7a,Charcoal,8 GB,128 GB,4300 mAh,4.1,"27,076",4.1,683,64MP (OIS) + 13MP | 13MP Front Camera,"₹27,999",36%,1 Year,64,,13
+535,SAMSUNG Galaxy F56 5G,Green,8 GB,128 GB,5000 mAh,4.2,,4.2,0,50MP + 8MP + 2MP | 12MP Front Camera,"₹27,999",99%,1 Year,50,8,12
+536,OPPO F27 Pro+,Dusk Pink,8 GB,256 GB,5000 mAh,4.3,"4,589",4.3,223,64MP + 2MP | 8MP Front Camera,"₹27,999",20%,1 Year,64,2,8
+537,OPPO F27 Pro+,Midnight Navy,8 GB,256 GB,5000 mAh,4.3,"4,589",4.3,223,64MP + 2MP | 8MP Front Camera,"₹27,999",20%,1 Year,64,2,8
+538,Motorola Edge 50 Pro 5G with 68W Charger,Black Beauty,8 GB,256 GB,4500 mAh,4.4,"33,908",4.4,983,50MP + 13MP + 10MP | 50MP Front Camera,"₹27,999",24%,1 Year,50,13,50
+539,Nothing Phone,2a) Plus (Black,8 GB,256 GB,5000 mAh,4.4,"12,990",4.4,934,50MP + 50MP | 50MP Front Camera,"₹27,999",96%,1 Year,50,50,50
+540,SAMSUNG Galaxy F56 5G,Violet,8 GB,128 GB,5000 mAh,4.2,,4.2,0,50MP + 8MP + 2MP | 12MP Front Camera,"₹27,999",99%,1 Year,50,8,12
+541,vivo V30e,Velvet Red,8 GB,256 GB,5500 mAh,4.4,"5,828",4.4,392,50MP + 8MP | 50MP Front Camera,"₹27,999",20%,1 Year,50,8,50
+542,Nothing Phone,2a) 5G (Black,12 GB,256 GB,5000 mAh,4.4,"14,968",4.4,177,50MP (OIS) + 50MP | 32MP Front Camera,"₹27,999",96%,1 Year,50,,32
+543,Nothing Phone,2a) 5G (Black,8 GB,256 GB,5000 mAh,4.4,"98,184",4.4,939,50MP (OIS) + 50MP | 32MP Front Camera,,,1 Year,50,,32
+544,Motorola Edge 50 Pro 5G with 68W Charger,Moonlight Pearl,8 GB,256 GB,4500 mAh,4.4,"33,908",4.4,983,50MP + 13MP + 10MP | 50MP Front Camera,"₹27,999",24%,1 Year,50,13,50
+545,Nothing Phone,2a) Plus (Grey,8 GB,256 GB,5000 mAh,4.4,"12,990",4.4,934,50MP + 50MP | 50MP Front Camera,"₹27,999",96%,1 Year,50,50,50
+546,Nothing Phone,2a) 5G (Blue,12 GB,256 GB,5000 mAh,4.4,"14,968",4.4,177,50MP (OIS) + 50MP | 32MP Front Camera,"₹27,999",96%,1 Year,50,,32
+547,realme 10 Pro+ 5G,Nebula Blue,8 GB,256 GB,5000 mAh,4.4,"26,640",4.4,121,108MP + 8MP + 2MP | 16MP Front Camera,"₹27,999",93%,1 Year,108,8,16
+548,realme 11 Pro+ 5G,Oasis Green,8 GB,256 GB,5000 mAh,4.4,"58,791",4.4,255,200MP (OIS) + 8MP + 2MP | 32MP Front Camera,"₹27,999",96%,1 Year,200,,32
+549,realme 11 Pro+ 5G,Sunrise Beige,8 GB,256 GB,5000 mAh,4.4,"58,791",4.4,255,200MP (OIS) + 8MP + 2MP | 32MP Front Camera,"₹27,999",96%,1 Year,200,,32
+550,realme 11 Pro+ 5G,Astral Black,8 GB,256 GB,5000 mAh,4.4,"58,791",4.4,255,200MP (OIS) + 8MP + 2MP | 32MP Front Camera,"₹27,999",96%,1 Year,200,,32
+551,realme 11 Pro 5G,Sunrise Beige,12 GB,256 GB,5000 mAh,4.3,"1,952",4.3,171,100MP (OIS) + 2MP | 16MP Front Camera,"₹27,999",99%,1 Year,100,,16
+552,OPPO F29 5G,Glacier Blue,8 GB,256 GB,6500 mAh,4.3,"1,105",4.3,84,50MP + 2MP | 16MP Front Camera,"₹25,999",16%,1 Year,50,2,16
+553,POCO X7 Pro 5G,Nebula Green,12 GB,256 GB,6550 mAh,4.4,"3,547",4.4,483,50MP + 8MP | 20MP Front Camera,"₹25,999",23%,1 Year,50,8,20
+554,REDMI Note 14 Pro 5G,Ivy Green,8 GB,256 GB,5500 mAh,4.4,"3,191",4.4,266,50MP + 8MP + 2MP | 20MP Front Camera,"₹25,999",16%,1 Year,50,8,20
+555,vivo T4 5G,Emerald Blaze,12 GB,256 GB,7300 mAh,4.5,"2,927",4.5,205,50MP (OIS) + 2MP | 32MP Front Camera,"₹25,999",13%,1 Year,50,,32
+556,realme GT Master Edition,Voyager Grey,8 GB,256 GB,4300 mAh,4.4,"63,808",4.4,648,64MP + 8MP + 2MP | 32MP Front Camera,"₹25,999",18%,1 Year,64,8,32
+557,vivo T4 5G,Phantom Grey,12 GB,256 GB,7300 mAh,4.5,"2,927",4.5,205,50MP (OIS) + 2MP | 32MP Front Camera,"₹25,999",13%,1 Year,50,,32
+558,vivo V29e 5G,Artistic Red,8 GB,128 GB,5000 mAh,4.4,"20,455",4.4,748,64MP + 8MP | 50MP Front Camera,"₹25,999",18%,1 Year,64,8,50
+559,realme 10 Pro+ 5G,Hyperspace,8 GB,128 GB,5000 mAh,4.4,"26,640",4.4,121,108MP + 8MP + 2MP | 16MP Front Camera,"₹25,999",97%,1 Year,108,8,16
+560,SAMSUNG Galaxy F62,Laser Green,8 GB,128 GB,,4.3,"31,037",4.3,620,64MP + 12MP + 5MP + 5MP | 32MP Front Camera,"₹25,999",18%,1 Year,64,12,32
+561,realme 10 Pro+ 5G,Nebula Blue,8 GB,128 GB,5000 mAh,4.4,"26,640",4.4,121,108MP + 8MP + 2MP | 16MP Front Camera,"₹25,999",97%,1 Year,108,8,16
+562,Infinix Zero 40 5G,Moving Titanium,12 GB,256 GB,,4.2,"1,419",4.2,185,108MP + 50MP + 2MP | 50MP Front Camera,"₹25,999",31%,1 Year,108,50,50
+563,POCO X7 Pro 5G,Yellow,12 GB,256 GB,6550 mAh,4.4,"3,547",4.4,483,50MP + 8MP | 20MP Front Camera,"₹25,999",23%,1 Year,50,8,20
+564,SAMSUNG Galaxy A34 5G,Awesome Graphite,8 GB,128 GB,,4.3,"7,092",4.3,562,48MP + 8MP + 5MP | 13MP Front Camera,"₹25,999",21%,,48,8,13
+565,Infinix Zero 40 5G,Rock Black,12 GB,256 GB,,4.2,"1,419",4.2,185,108MP + 50MP + 2MP | 50MP Front Camera,"₹25,999",31%,1 Year,108,50,50
+566,Infinix Zero 40 5G,Violet Garden,12 GB,256 GB,,4.2,"1,419",4.2,185,108MP + 50MP + 2MP | 50MP Front Camera,"₹25,999",31%,1 Year,108,50,50
+567,REDMI Note,Ivy Green,8 GB,256 GB,5500 mAh,4.3,,4.3,5,50MP + 8MP + 2MP | 20MP Front Camera,"₹25,895",16%,1 Year,50,8,20
+568,REDMI Note,Titan Black,8 GB,256 GB,5500 mAh,4.3,,4.3,5,50MP + 8MP + 2MP | 20MP Front Camera,"₹25,789",16%,1 Year,50,8,20
+569,REDMI Note 13 Pro+ 5G,Fusion White,12 GB,256 GB,5000 mAh,4.2,"11,200",4.2,998,200MP (OIS) + 8MP + 2MP | 16MP Front Camera,"₹25,779",28%,1 Year,200,,16
+570,REDMI Note,Phantom Purple,8 GB,256 GB,5500 mAh,4.3,,4.3,5,50MP + 8MP + 2MP | 20MP Front Camera,"₹25,775",16%,1 Year,50,8,20
+571,IQOO Z10 5G,Black,12 GB,256 GB,7300 mAh,4.4,,4.4,10,50MP Rear Camera,"₹25,700",14%,1 Year,50,,
+572,SAMSUNG SM,Awesome Iceblue,8 GB,128 GB,5000 mAh,,,,,50MP Rear Camera,"₹25,649",24%,1 Year,50,,
+573,SAMSUNG Galaxy M55 5G,Denim Black / Black,8 GB,256 GB,5000 mAh,3.6,,3.6,11,50MP Rear Camera,"₹25,555",17%,,50,,
+574,vivo V25 5G,Sunrise Gold,8 GB,128 GB,,4.3,"9,008",4.3,803,64MP + 8MP + 2MP | 50MP Front Camera,"₹25,500",22%,1 Year,64,8,50
+575,REDMI Note 12 Pro 5G,Stardust Purple,12 GB,256 GB,,4.2,"2,615",4.2,211,50MP (OIS) + 8MP + 2MP | 16MP Front Camera,"₹25,499",22%,1 Year,50,,16
+576,IQOO Neo 10R 5G,MoonKnight Titanium,8 GB,128 GB,6400 mAh,4.5,,4.5,29,50MP Rear Camera,"₹27,480",14%,1 Year,50,,
+577,IQOO Neo 10R 5G,Raging Blue,8 GB,128 GB,6400 mAh,4.5,,4.5,29,50MP Rear Camera,"₹27,410",14%,1 Year,50,,
+578,realme 13 Pro+ 5G,Monet Gold,12 GB,256 GB,5200 mAh,4.4,"8,826",4.4,852,50MP + 8MP + 50MP | 32MP Front Camera,"₹26,999",30%,1 Year,50,8,32
+579,POCO X6 Pro 5G,Spectre Black,8 GB,256 GB,5000 mAh,4.3,"23,556",4.3,478,64MP + 8MP + 2MP | 16MP Front Camera,"₹26,999",12%,1 Year,64,8,16
+580,Infinix GT 20 Pro,Mecha Blue,12 GB,256 GB,5000 mAh,4.3,"8,205",4.3,569,108MP (OIS) + 2MP + 2MP | 32MP Front Camera,"₹26,999",22%,1 Year,108,,32
+581,realme P3 Ultra 5G,Glowing Lunar White,12 GB,256 GB,6000 mAh,4.5,,4.5,103,50MP + 8MP | 16MP Front Camera,"₹26,999",25%,1 Year,50,8,16
+582,SAMSUNG Galaxy A34 5G,Awesome Lime,8 GB,128 GB,,4.3,"7,092",4.3,562,48MP + 8MP + 5MP | 13MP Front Camera,"₹26,999",23%,,48,8,13
+583,vivo V40e 5G,Royal Bronze,8 GB,256 GB,5500 mAh,4.4,"8,526",4.4,592,50MP + 8MP | 50MP Front Camera,"₹26,999",25%,1 Year,50,8,50
+584,Nothing Phone,3a) (White,8 GB,256 GB,5000 mAh,4.5,"20,327",4.5,948,50MP (Main) + 50MP (2X Tele Photo) + 8MP (Ultra-Wide) | 32MP Front Camera,"₹26,999",10%,1 Year,50,,32
+585,realme 14 Pro 5G,Suede Grey,8 GB,256 GB,6000 mAh,4.4,"6,750",4.4,597,50MP + 2MP | 16MP Front Camera,"₹26,999",10%,1 Year,50,2,16
+586,realme 13 Pro+ 5G,Monet Purple,12 GB,256 GB,5200 mAh,4.4,"8,826",4.4,852,50MP + 8MP + 50MP | 32MP Front Camera,"₹26,999",30%,1 Year,50,8,32
+587,Motorola Edge 40,Nebula Green,8 GB,256 GB,4400 mAh,4.3,"84,328",4.3,793,50MP + 13MP | 32MP Front Camera,"₹26,999",22%,1 Year,50,13,32
+588,Nothing Phone,3a) (Blue,8 GB,256 GB,5000 mAh,4.5,"20,327",4.5,948,50MP (Main) + 50MP (2X Tele Photo) + 8MP (Ultra-Wide) | 32MP Front Camera,"₹26,999",10%,1 Year,50,,32
+589,realme P3 Ultra 5G,Orion Red,12 GB,256 GB,6000 mAh,4.5,,4.5,103,50MP + 8MP | 16MP Front Camera,"₹26,999",25%,1 Year,50,8,16
+590,SAMSUNG Galaxy A25 5G,Blue Black,8 GB,128 GB,5000 mAh,4.2,,4.2,13,50MP + 8MP + 2MP | 13MP Front Camera,"₹26,999",95%,1 Year,50,8,13
+591,Infinix GT 20 Pro,Mecha Silver,12 GB,256 GB,5000 mAh,4.3,"8,205",4.3,569,108MP (OIS) + 2MP + 2MP | 32MP Front Camera,"₹26,999",22%,1 Year,108,,32
+592,REDMI Note 13 Pro+ 5G,Fusion Black,12 GB,256 GB,5000 mAh,4.2,"11,200",4.2,998,200MP (OIS) + 8MP + 2MP | 16MP Front Camera,"₹26,999",25%,1 Year,200,,16
+593,SAMSUNG Galaxy A25 5G,Yellow,8 GB,128 GB,5000 mAh,4.2,,4.2,13,50MP + 8MP + 2MP | 13MP Front Camera,"₹26,999",95%,1 Year,50,8,13
+594,realme 14 Pro 5G,Pearl White,8 GB,256 GB,6000 mAh,4.4,"6,750",4.4,597,50MP + 2MP | 16MP Front Camera,"₹26,999",10%,1 Year,50,2,16
+595,realme 13 Pro 5G,Monet Gold,12 GB,512 GB,5200 mAh,4.3,,4.3,64,50MP + 8MP + 2MP | 32MP Front Camera,"₹26,999",22%,1 Year,50,8,32
+596,Nothing Phone,3a) (Black,8 GB,256 GB,5000 mAh,4.5,"20,327",4.5,948,50MP (Main) + 50MP (2X Tele Photo) + 8MP (Ultra-Wide) | 32MP Front Camera,"₹26,999",10%,1 Year,50,,32
+597,realme 13 Pro 5G,Monet Purple,12 GB,512 GB,5200 mAh,4.3,,4.3,64,50MP + 8MP + 2MP | 32MP Front Camera,"₹26,999",22%,1 Year,50,8,32
+598,REDMI Note 13 Pro+ 5G,Fusion Purple,12 GB,256 GB,5000 mAh,4.2,"11,200",4.2,998,200MP (OIS) + 8MP + 2MP | 16MP Front Camera,"₹26,999",25%,1 Year,200,,16
+599,SAMSUNG Galaxy F55 5G,Raisin Black,12 GB,256 GB,5000 mAh,478,,478,94,50MP + 8MP + 2MP | 50MP Front Camera,"₹26,999",22%,1 Year,50,8,50
+600,Motorola Edge 30,Aurra Green,8 GB,128 GB,,4.1,"8,830",4.1,102,50MP + 50MP + 2MP | 32MP Front Camera,"₹26,999",22%,1 Year,50,50,32
+601,POCO X6 Pro 5G,Racing Grey,8 GB,256 GB,5000 mAh,4.3,"23,556",4.3,478,64MP + 8MP + 2MP | 16MP Front Camera,"₹26,999",12%,1 Year,64,8,16
+602,REDMI Note 13 Pro+ 5G,Fusion White,12 GB,256 GB,5000 mAh,4.2,"11,200",4.2,998,200MP (OIS) + 8MP + 2MP | 16MP Front Camera,"₹26,999",25%,1 Year,200,,16
+603,Motorola Edge 40,Viva Magenta,8 GB,256 GB,4400 mAh,4.3,"84,328",4.3,793,50MP + 13MP | 32MP Front Camera,"₹26,999",22%,1 Year,50,13,32
+604,POCO F3 GT 5G,Gunmetal Silver,6 GB,128 GB,,4.3,"4,794",4.3,765,64MP + 8MP + 2MP | 16MP Front Camera,"₹26,999",18%,1 Year,64,8,16
+605,OPPO Reno8 5G,Shimmer Black,8 GB,128 GB,,4.3,"39,091",4.3,652,50MP + 8MP + 2MP | 32MP Front Camera,"₹26,999",30%,1 Year,50,8,32
+606,Xiaomi 11i 5G,Pacific Pearl,8 GB,128 GB,,4.2,"22,781",4.2,731,108MP Rear Camera | 16MP Front Camera,"₹26,999",15%,1 Year,108,,16
+607,SAMSUNG Galaxy F55 5G,Apricot Crush,12 GB,256 GB,5000 mAh,478,,478,94,50MP + 8MP + 2MP | 50MP Front Camera,"₹26,999",22%,1 Year,50,8,50
+608,Xiaomi 11i Hypercharge 5G,Pacific Pearl,6 GB,128 GB,,4.2,"12,649",4.2,202,108MP + 8MP + 2MP | 16MP Front Camera,"₹26,999",15%,1 Year,108,8,16
+609,realme 13+ 5G,Speed Green,12 GB,256 GB,5000 mAh,4.3,,4.3,38,50MP + 2MP | 16MP Front Camera,"₹26,999",10%,1 Year,50,2,16
+610,Xiaomi 11i Hypercharge 5G,Camo Green,6 GB,128 GB,,4.2,"12,649",4.2,202,108MP + 8MP + 2MP | 16MP Front Camera,"₹26,999",15%,1 Year,108,8,16
+611,realme 13+ 5G,Victory Gold,12 GB,256 GB,5000 mAh,4.3,,4.3,38,50MP + 2MP | 16MP Front Camera,"₹26,999",10%,1 Year,50,2,16
+612,SAMSUNG Galaxy M55 5G,Denim Black / Black,8 GB,128 GB,5000 mAh,3.6,,3.6,11,50MP Rear Camera,"₹26,995",96%,,50,,
+613,Xiaomi 11T Pro 5G Hyperphone,Moonlight White,12 GB,256 GB,5000 mAh,4.1,,4.1,40,108MP Rear Camera,"₹26,990",50%,,108,,
+614,realme GT 6T 5G,Miracle Purple,8 GB,256 GB,5500 mAh,4.5,"2,888",4.5,220,50MP Rear Camera,"₹26,967",25%,1 Year,50,,
+615,SAMSUNG Galaxy M56 5G,Light Green,8 GB,128 GB,5000 mAh,,,,,50MP + 50MP + 8MP | 12MP + 2MP Dual Front Camera,"₹26,899",13%,,50,50,
+616,SAMSUNG Galaxy M56 5G,Black,8 GB,128 GB,5000 mAh,,,,,50MP + 50MP + 8MP | 12MP + 2MP Dual Front Camera,"₹26,899",13%,,50,50,
+617,SAMSUNG Galaxy M55 5G,Danim Black,12 GB,256 GB,5000 mAh,4.2,,4.2,8,50MP Rear Camera,"₹26,803",23%,,50,,
+618,Samsung Galaxy S21 FE 5G with Snapdragon 888,Graphite,8 GB,256 GB,,4.3,,4.3,100,12MP + 12MP + 8MP (OIS) | 32MP Front Camera,"₹26,770",58%,1 Year,12,12,32
+619,vivo V40e 5G,Mint Green,8 GB,256 GB,5500 mAh,4.4,"8,526",4.4,592,50MP + 8MP | 50MP Front Camera,"₹26,599",26%,1 Year,50,8,50
+620,REDMI Note 13 Pro+ 5G,Fusion Black,12 GB,256 GB,5000 mAh,4.2,"11,200",4.2,998,200MP (OIS) + 8MP + 2MP | 16MP Front Camera,"₹26,379",26%,1 Year,200,,16
+621,realme P3 Ultra 5G,Orion Red,8 GB,256 GB,6000 mAh,4.4,"3,133",4.4,452,50MP + 8MP | 16MP Front Camera,"₹25,999",23%,1 Year,50,8,16
+622,realme 13 Pro+ 5G,Emerald Green,8 GB,256 GB,5200 mAh,4.4,"13,496",4.4,386,50MP + 8MP + 50MP | 32MP Front Camera,"₹25,999",29%,1 Year,50,8,32
+623,Nothing Phone,2a) 5G (White,8 GB,256 GB,5000 mAh,4.4,"98,184",4.4,939,50MP (OIS) + 50MP | 32MP Front Camera,"₹25,999",97%,1 Year,50,,32
+624,realme 13 Pro+ 5G,Monet Purple,8 GB,256 GB,5200 mAh,4.4,"13,496",4.4,386,50MP + 8MP + 50MP | 32MP Front Camera,"₹25,999",29%,1 Year,50,8,32
+625,Nothing Phone,2a) 5G (Blue,8 GB,256 GB,5000 mAh,4.4,"98,184",4.4,939,50MP (OIS) + 50MP | 32MP Front Camera,"₹25,999",97%,1 Year,50,,32
+626,SAMSUNG Galaxy A26 5G,Awesome Mint,8 GB,256 GB,5000 mAh,4.1,,4.1,18,50MP + 8MP | 13MP Front Camera,"₹25,999",16%,1 Year,50,8,13
+627,realme 13 Pro+ 5G,Monet Gold,8 GB,256 GB,5200 mAh,4.4,"13,496",4.4,386,50MP + 8MP + 50MP | 32MP Front Camera,"₹25,999",29%,1 Year,50,8,32
+628,realme P3 Ultra 5G,Glowing Lunar White,8 GB,256 GB,6000 mAh,4.4,"3,133",4.4,452,50MP + 8MP | 16MP Front Camera,"₹25,999",23%,1 Year,50,8,16
+629,SAMSUNG Galaxy F62,Laser Blue,8 GB,128 GB,,4.3,"31,037",4.3,620,64MP + 12MP + 5MP + 5MP | 32MP Front Camera,"₹25,999",18%,1 Year,64,12,32
+630,realme P3 Ultra 5G,Neptune Blue,8 GB,256 GB,6000 mAh,4.4,"3,133",4.4,452,50MP + 8MP | 16MP Front Camera,"₹25,999",23%,1 Year,50,8,16
+631,REDMI Note 14 Pro 5G,Phantom Purple,8 GB,256 GB,5500 mAh,4.4,"3,191",4.4,266,50MP + 8MP + 2MP | 20MP Front Camera,"₹25,999",16%,1 Year,50,8,20
+632,OPPO F29 5G,Solid Purple,8 GB,256 GB,6500 mAh,4.3,"1,105",4.3,84,50MP + 2MP | 16MP Front Camera,"₹25,999",16%,1 Year,50,2,16
+633,SAMSUNG Galaxy A26 5G,Awesome Black,8 GB,256 GB,5000 mAh,4.1,,4.1,18,50MP + 8MP | 13MP Front Camera,"₹25,999",16%,1 Year,50,8,13
+634,OPPO F29 5G,Glacier Blue,8 GB,256 GB,6500 mAh,4.3,"1,105",4.3,84,50MP + 2MP | 16MP Front Camera,"₹25,999",16%,1 Year,50,2,16
+635,POCO X7 Pro 5G,Nebula Green,12 GB,256 GB,6550 mAh,4.4,"3,547",4.4,483,50MP + 8MP | 20MP Front Camera,"₹25,999",23%,1 Year,50,8,20
+636,REDMI Note 14 Pro 5G,Titan Black,8 GB,256 GB,5500 mAh,4.4,"3,191",4.4,266,50MP + 8MP + 2MP | 20MP Front Camera,"₹25,999",16%,1 Year,50,8,20
+637,REDMI Note 14 Pro 5G,Ivy Green,8 GB,256 GB,5500 mAh,4.4,"3,191",4.4,266,50MP + 8MP + 2MP | 20MP Front Camera,"₹25,999",16%,1 Year,50,8,20
+638,OPPO F27 Pro+,Midnight Navy,8 GB,128 GB,5000 mAh,4.3,"4,589",4.3,223,64MP + 2MP | 8MP Front Camera,"₹25,999",21%,1 Year,64,2,8
+639,vivo T4 5G,Emerald Blaze,12 GB,256 GB,7300 mAh,4.5,"2,927",4.5,205,50MP (OIS) + 2MP | 32MP Front Camera,"₹25,999",13%,1 Year,50,,32
+640,OPPO F27 Pro+,Dusk Pink,8 GB,128 GB,5000 mAh,4.3,"4,589",4.3,223,64MP + 2MP | 8MP Front Camera,"₹25,999",21%,1 Year,64,2,8
+641,vivo V29e 5G,Artistic Red,8 GB,128 GB,5000 mAh,4.4,"20,455",4.4,748,64MP + 8MP | 50MP Front Camera,"₹25,999",18%,1 Year,64,8,50
+642,realme GT Master Edition,Voyager Grey,8 GB,256 GB,4300 mAh,4.4,"63,808",4.4,648,64MP + 8MP + 2MP | 32MP Front Camera,"₹25,999",18%,1 Year,64,8,32
+643,vivo V29e 5G,Artistic Blue,8 GB,128 GB,5000 mAh,4.4,"20,455",4.4,748,64MP + 8MP | 50MP Front Camera,"₹25,999",18%,1 Year,64,8,50
+644,vivo T4 5G,Phantom Grey,12 GB,256 GB,7300 mAh,4.5,"2,927",4.5,205,50MP (OIS) + 2MP | 32MP Front Camera,"₹25,999",13%,1 Year,50,,32
+645,POCO X7 Pro 5G,Obsidian Black,12 GB,256 GB,6550 mAh,4.4,"3,547",4.4,483,50MP + 8MP | 20MP Front Camera,"₹25,999",23%,1 Year,50,8,20
+646,SAMSUNG Galaxy F62,Laser Green,8 GB,128 GB,,4.3,"31,037",4.3,620,64MP + 12MP + 5MP + 5MP | 32MP Front Camera,"₹25,999",18%,1 Year,64,12,32
+647,Infinix Zero 40 5G,Rock Black,12 GB,256 GB,,4.2,"1,419",4.2,185,108MP + 50MP + 2MP | 50MP Front Camera,"₹25,999",31%,1 Year,108,50,50
+648,POCO X7 Pro 5G,Yellow,12 GB,256 GB,6550 mAh,4.4,"3,547",4.4,483,50MP + 8MP | 20MP Front Camera,"₹25,999",23%,1 Year,50,8,20
+649,SAMSUNG Galaxy A34 5G,Awesome Graphite,8 GB,128 GB,,4.3,"7,092",4.3,562,48MP + 8MP + 5MP | 13MP Front Camera,"₹25,999",21%,,48,8,13
+650,SAMSUNG Galaxy A26 5G,Awesome White,8 GB,256 GB,5000 mAh,4.1,,4.1,18,50MP + 8MP | 13MP Front Camera,"₹25,999",16%,1 Year,50,8,13
+651,Infinix Zero 40 5G,Moving Titanium,12 GB,256 GB,,4.2,"1,419",4.2,185,108MP + 50MP + 2MP | 50MP Front Camera,"₹25,999",31%,1 Year,108,50,50
+652,realme 10 Pro+ 5G,Hyperspace,8 GB,128 GB,5000 mAh,4.4,"26,640",4.4,121,108MP + 8MP + 2MP | 16MP Front Camera,"₹25,999",97%,1 Year,108,8,16
+653,Infinix Zero 40 5G,Violet Garden,12 GB,256 GB,,4.2,"1,419",4.2,185,108MP + 50MP + 2MP | 50MP Front Camera,"₹25,999",31%,1 Year,108,50,50
+654,realme 10 Pro+ 5G,Nebula Blue,8 GB,128 GB,5000 mAh,4.4,"26,640",4.4,121,108MP + 8MP + 2MP | 16MP Front Camera,"₹25,999",97%,1 Year,108,8,16
+655,vivo V29e 5G,Artistic Red,8 GB,256 GB,5000 mAh,4.4,"20,455",4.4,748,64MP + 8MP | 50MP Front Camera,"₹25,939",23%,1 Year,64,8,50
+656,REDMI Note,Ivy Green,8 GB,256 GB,5500 mAh,4.3,,4.3,5,50MP + 8MP + 2MP | 20MP Front Camera,"₹25,895",16%,1 Year,50,8,20
+657,REDMI Note,Titan Black,8 GB,256 GB,5500 mAh,4.3,,4.3,5,50MP + 8MP + 2MP | 20MP Front Camera,"₹25,789",16%,1 Year,50,8,20
+658,REDMI Note 13 Pro+ 5G,Fusion White,12 GB,256 GB,5000 mAh,4.2,"11,200",4.2,998,200MP (OIS) + 8MP + 2MP | 16MP Front Camera,"₹25,779",28%,1 Year,200,,16
+659,REDMI Note,Phantom Purple,8 GB,256 GB,5500 mAh,4.3,,4.3,5,50MP + 8MP + 2MP | 20MP Front Camera,"₹25,775",16%,1 Year,50,8,20
+660,IQOO Z10 5G,Black,12 GB,256 GB,7300 mAh,4.4,,4.4,10,50MP Rear Camera,"₹25,700",14%,1 Year,50,,
+661,SAMSUNG SM,Awesome Iceblue,8 GB,128 GB,5000 mAh,,,,,50MP Rear Camera,"₹25,649",24%,1 Year,50,,
+662,SAMSUNG Galaxy M55 5G,Denim Black / Black,8 GB,256 GB,5000 mAh,3.6,,3.6,11,50MP Rear Camera,"₹25,555",17%,,50,,
+663,vivo V25 5G,Sunrise Gold,8 GB,128 GB,,4.3,"9,008",4.3,803,64MP + 8MP + 2MP | 50MP Front Camera,"₹25,500",22%,1 Year,64,8,50
+664,REDMI Note 12 Pro 5G,Glacier Blue,12 GB,256 GB,,4.2,"2,615",4.2,211,50MP (OIS) + 8MP + 2MP | 16MP Front Camera,"₹25,499",22%,1 Year,50,,16
+665,REDMI Note 12 Pro 5G,Stardust Purple,12 GB,256 GB,,4.2,"2,615",4.2,211,50MP (OIS) + 8MP + 2MP | 16MP Front Camera,"₹25,499",22%,1 Year,50,,16
+666,REDMI Note 13 Pro+ 5G,Fusion White,8 GB,256 GB,5000 mAh,4.3,"19,091",4.3,675,200MP (OIS) + 8MP + 2MP | 16MP Front Camera,"₹25,489",25%,1 Year,200,,16
+667,IQOO Z10 5G,Silver,12 GB,256 GB,7300 mAh,4.4,,4.4,10,50MP Rear Camera,"₹25,300",15%,1 Year,50,,
+668,Infinix GT 20 Pro,Mecha Blue,8 GB,256 GB,5000 mAh,4.4,"14,591",4.4,119,108MP (OIS) + 2MP + 2MP | 32MP Front Camera,"₹24,999",21%,1 Year,108,,32
+669,realme 14 Pro 5G,Suede Grey,8 GB,128 GB,6000 mAh,4.4,"6,750",4.4,597,50MP + 2MP | 16MP Front Camera,"₹24,999",10%,1 Year,50,2,16
+670,Motorola Edge 40 Neo,Peach Fuzz,12 GB,256 GB,5000 mAh,4.3,"52,078",4.3,109,50MP + 13MP | 32MP Front Camera,"₹24,999",16%,1 Year,50,13,32
+671,Infinix GT 20 Pro,Mecha Orange,8 GB,256 GB,5000 mAh,4.4,"14,591",4.4,119,108MP (OIS) + 2MP + 2MP | 32MP Front Camera,"₹24,999",21%,1 Year,108,,32
+672,SAMSUNG Galaxy A35 5G,Awesome Iceblue,8 GB,256 GB,5000 mAh,4.3,"11,564",4.3,825,50MP + 8MP + 5MP | 13MP Front Camera,"₹24,999",32%,1 Year,50,8,13
+673,realme 14 Pro 5G,Suede Grey,8 GB,128 GB,6000 mAh,4.4,"6,750",4.4,597,50MP + 2MP | 16MP Front Camera,"₹24,999",10%,1 Year,50,2,16
+674,Redmi K20,Carbon Black,6 GB,128 GB,,4.5,"44,989",4.5,662,48MP + 13MP + 8MP | 20MP Front Camera,,,1 Year,48,13,20
+675,SAMSUNG Galaxy A35 5G,Awesome Lilac,8 GB,256 GB,5000 mAh,4.3,"11,564",4.3,825,50MP + 8MP + 5MP | 13MP Front Camera,"₹24,999",32%,1 Year,50,8,13
+676,POCO X6 5G,Mirror Black,12 GB,512 GB,5100 mAh,4.3,"12,632",4.3,110,64MP + 8MP + 2MP | 16MP Front Camera,"₹24,999",10%,1 Year,64,8,16
+677,MOTOROLA Edge 60 Fusion 5G,PANTONE Amazonite,12 GB,256 GB,5500 mAh,4.6,"9,741",4.6,553,50MP + 13MP | 32MP Front Camera,"₹24,999",10%,1 Year,50,13,32
+678,MOTOROLA Moto G 5G,Volcanic Grey,6 GB,128 GB,,4.2,"14,948",4.2,648,48MP + 8MP + 2MP | 16MP Front Camera,,,1 Year,48,8,16
+679,MOTOROLA Edge 60 Fusion 5G,PANTONE Zephyr,12 GB,256 GB,5500 mAh,4.6,"9,741",4.6,553,50MP + 13MP | 32MP Front Camera,"₹24,999",10%,1 Year,50,13,32
+680,realme GT 2,Paper White,8 GB,128 GB,,4.3,"21,756",4.3,325,50MP + 8MP + 2MP | 16MP Front Camera,"₹24,999",37%,1 Year,50,8,16
+681,SAMSUNG Galaxy M55 5G,Light Green,8 GB,128 GB,5000 mAh,3.6,,3.6,11,50MP Rear Camera,"₹24,999",14%,,50,,
+682,realme GT 2,Steel Black,8 GB,128 GB,,4.3,"21,756",4.3,325,50MP + 8MP + 2MP | 16MP Front Camera,"₹24,999",37%,1 Year,50,8,16
+683,SAMSUNG Galaxy M55 5G,Light Green,8 GB,256 GB,5000 mAh,3.6,,3.6,11,50MP Rear Camera,"₹24,999",21%,,50,,
+684,realme GT 2,Paper Green,8 GB,128 GB,,4.3,"21,756",4.3,325,50MP + 8MP + 2MP | 16MP Front Camera,"₹24,999",37%,1 Year,50,8,16
+685,SAMSUNG Galaxy A35 5G,Awesome Navy,8 GB,256 GB,5000 mAh,4.3,"11,564",4.3,825,50MP + 8MP + 5MP | 13MP Front Camera,"₹24,999",32%,1 Year,50,8,13
+686,realme 11 Pro 5G,Sunrise Beige,8 GB,256 GB,5000 mAh,4.4,"95,898",4.4,113,100MP (OIS) + 2MP | 16MP Front Camera,"₹24,999",10%,1 Year,100,,16
+687,Honor 200 5G,Black,8 GB,256 GB,5200 mAh,4.5,,4.5,11,50MP + 50MP + 12MP | 50MP Front Camera,"₹24,999",37%,,50,50,50
+688,realme 11 Pro 5G,Oasis Green,8 GB,256 GB,5000 mAh,4.4,"95,898",4.4,113,100MP (OIS) + 2MP | 16MP Front Camera,"₹24,999",10%,1 Year,100,,16
+689,REDMI K50i 5G,Quick Silver,6 GB,128 GB,5080 mAh,4.2,"4,058",4.2,414,64MP + 8MP + 2MP | 16MP Front Camera,"₹24,999",21%,1 Year,64,8,16
+690,REDMI K50i 5G,Stealth Black,6 GB,128 GB,5080 mAh,4.2,"4,058",4.2,414,64MP + 8MP + 2MP | 16MP Front Camera,"₹24,999",21%,1 Year,64,8,16
+691,realme 10 Pro+ 5G,Dark Matter,6 GB,128 GB,5000 mAh,4.4,"35,458",4.4,934,108MP + 8MP + 2MP | 16MP Front Camera,"₹24,999",93%,1 Year,108,8,16
+692,vivo T1 Pro 5G,Turbo Cyan,8 GB,128 GB,,4.4,"21,274",4.4,957,64MP + 8MP + 2MP | 16MP Front Camera,"₹24,999",19%,1 Year,64,8,16
+693,REDMI Note 13 Pro+ 5G,Fusion Black,8 GB,256 GB,5000 mAh,4.3,"19,091",4.3,675,200MP (OIS) + 8MP + 2MP | 16MP Front Camera,"₹24,999",26%,1 Year,200,,16
+694,Motorola Edge 40 Neo,Caneel Bay,12 GB,256 GB,5000 mAh,4.3,"52,078",4.3,109,50MP + 13MP | 32MP Front Camera,"₹24,999",16%,1 Year,50,13,32
+695,OnePlus 8T 5G,Aquamarine Green,8 GB,128 GB,4500 mAh,4.1,,4.1,19,48MP Rear Camera,"₹24,999",41%,,48,,
+696,SAMSUNG Galaxy A35 5G,Awesome Lilac,8 GB,256 GB,5000 mAh,4.3,"11,564",4.3,825,50MP + 8MP + 5MP | 13MP Front Camera,"₹24,999",32%,1 Year,50,8,13
+697,SAMSUNG Galaxy A35 5G,Awesome Iceblue,8 GB,256 GB,5000 mAh,4.3,"11,564",4.3,825,50MP + 8MP + 5MP | 13MP Front Camera,"₹24,999",32%,1 Year,50,8,13
+698,Xiaomi 11i 5G,Camo Green,6 GB,128 GB,,4.2,"38,895",4.2,623,108MP Rear Camera | 16MP Front Camera,"₹24,999",16%,1 Year,108,,16
+699,Redmi K20,Carbon Black,6 GB,128 GB,,4.5,"44,989",4.5,662,48MP + 13MP + 8MP | 20MP Front Camera,,,1 Year,48,13,20
+700,realme 14 Pro 5G,Suede Grey,8 GB,128 GB,6000 mAh,4.4,"6,750",4.4,597,50MP + 2MP | 16MP Front Camera,"₹24,999",10%,1 Year,50,2,16
+701,realme 14 Pro 5G,Jaipur Pink,8 GB,128 GB,6000 mAh,4.4,"6,750",4.4,597,50MP + 2MP | 16MP Front Camera,"₹24,999",10%,1 Year,50,2,16
+702,realme 14 Pro 5G,Pearl White,8 GB,128 GB,6000 mAh,4.4,"6,750",4.4,597,50MP + 2MP | 16MP Front Camera,"₹24,999",10%,1 Year,50,2,16
+703,REDMI Note,Ivy Green,8 GB,128 GB,5500 mAh,4.3,,4.3,5,50MP + 8MP + 2MP | 20MP Front Camera,"₹24,999",13%,1 Year,50,8,20
+704,realme P3 Ultra 5G,Glowing Lunar White,8 GB,128 GB,6000 mAh,4.4,"3,133",4.4,452,50MP + 8MP | 16MP Front Camera,"₹24,999",21%,1 Year,50,8,16
+705,realme P3 Ultra 5G,Neptune Blue,8 GB,128 GB,6000 mAh,4.4,"3,133",4.4,452,50MP + 8MP | 16MP Front Camera,"₹24,999",21%,1 Year,50,8,16
+706,SAMSUNG Galaxy M33 5G,Mystique Green,8 GB,128 GB,6000 mAh,4.2,"5,034",4.2,332,50MP Rear Camera,"₹24,999",93%,1 Year,50,,
+707,Infinix GT 20 Pro,Mecha Orange,8 GB,256 GB,5000 mAh,4.4,"14,591",4.4,119,108MP (OIS) + 2MP + 2MP | 32MP Front Camera,"₹24,999",21%,1 Year,108,,32
+708,Infinix GT 20 Pro,Mecha Blue,8 GB,256 GB,5000 mAh,4.4,"14,591",4.4,119,108MP (OIS) + 2MP + 2MP | 32MP Front Camera,"₹24,999",21%,1 Year,108,,32
+709,Mi 10T Pro,Cosmic Black,8 GB,128 GB,,4.2,"3,703",4.2,551,108MP + 13MP + 5MP | 20MP Front Camera,"₹24,990",47%,1 Year,108,13,20
+710,SAMSUNG Galaxy A50s,Prism Crush White,4 GB,128 GB,,4.3,"48,708",4.3,493,48MP + 8MP + 5MP | 32MP Front Camera,,,1 Year,48,8,32
+711,REDMI Note 13 Pro+ 5G,Fusion Black,8 GB,256 GB,5000 mAh,4.3,"19,091",4.3,675,200MP (OIS) + 8MP + 2MP | 16MP Front Camera,"₹24,789",27%,1 Year,200,,16
+712,OnePlus 10R,Forest Green,8 GB,128 GB,5000 mAh,4.3,"7,500",4.3,442,50MP Rear Camera | 16MP Front Camera,"₹24,498",36%,1 Year,50,,16
+713,realme GT Neo 3,Nitro Blue,8 GB,256 GB,,4.2,"1,797",4.2,227,50MP + 8MP + 2MP | 16MP Front Camera,"₹24,449",41%,1 Year,50,8,16
+714,IQOO Z9S 5G,Titanium Matte,12 GB,256 GB,5500 mAh,4.4,,4.4,15,50MP + 50MP | 2MP Dual Front Camera,"₹24,299",19%,,50,50,
+715,vivo V40e 5G,Mint Green,8 GB,128 GB,5500 mAh,4.4,"8,526",4.4,592,50MP + 8MP | 50MP Front Camera,"₹24,180",28%,1 Year,50,8,50
+716,SAMSUNG Galaxy A50,Black,6 GB,64 GB,,4.4,"11,359",4.4,984,25MP + 5MP + 8MP | 25MP Front Camera,,,1 Year,25,5,25
+717,SAMSUNG Galaxy A50,White,6 GB,64 GB,,4.4,"11,359",4.4,984,25MP + 5MP + 8MP | 25MP Front Camera,,,1 Year,25,5,25
+718,POCO X7 Pro 5G,Yellow,8 GB,256 GB,6550 mAh,4.3,"6,216",4.3,983,50MP + 8MP | 20MP Front Camera,"₹23,999",25%,1 Year,50,8,20
+719,vivo Y100A,Twilight Gold,8 GB,256 GB,4500 mAh,4.3,,4.3,48,64MP + 2MP + 2MP | 16MP Front Camera,"₹23,999",25%,1 Year,64,2,16
+720,realme 11 Pro 5G,Sunrise Beige,8 GB,128 GB,5000 mAh,4.4,"95,898",4.4,113,100MP (OIS) + 2MP | 16MP Front Camera,"₹23,999",97%,1 Year,100,,16
+721,POCO X7 Pro 5G,Nebula Green,8 GB,256 GB,6550 mAh,4.3,"6,216",4.3,983,50MP + 8MP | 20MP Front Camera,"₹23,999",25%,1 Year,50,8,20
+722,REDMI K50i 5G,Quick Silver,8 GB,256 GB,5080 mAh,4.2,"3,865",4.2,375,64MP + 8MP + 2MP | 16MP Front Camera,"₹23,999",33%,1 Year,64,8,16
+723,Mi 11 Lite,Jazz Blue,8 GB,128 GB,,4.2,"6,477",4.2,643,64MP + 8MP + 5MP | 16MP Front Camera,"₹23,999",97%,1 Year,64,8,16
+724,vivo T1 Pro 5G,Turbo Cyan,6 GB,128 GB,,4.4,"10,118",4.4,930,64MP + 8MP + 2MP | 16MP Front Camera,"₹23,999",17%,1 Year,64,8,16
+725,realme 11 Pro 5G,Oasis Green,8 GB,128 GB,5000 mAh,4.4,"95,898",4.4,113,100MP (OIS) + 2MP | 16MP Front Camera,"₹23,999",97%,1 Year,100,,16
+726,vivo Y100A,Pacific Blue,8 GB,256 GB,4500 mAh,4.3,,4.3,48,64MP + 2MP + 2MP | 16MP Front Camera,"₹23,999",25%,1 Year,64,2,16
+727,realme 11 Pro 5G,Astral Black,8 GB,128 GB,5000 mAh,4.4,"95,898",4.4,113,100MP (OIS) + 2MP | 16MP Front Camera,"₹23,999",97%,1 Year,100,,16
+728,SAMSUNG Galaxy F55 5G,Apricot Crush,8 GB,256 GB,5000 mAh,,,,212,50MP + 8MP + 2MP | 50MP Front Camera,"₹23,999",25%,1 Year,50,8,50
+729,Infinix Zero 30 5G,Fantasy Purple,8 GB,256 GB,,4.3,"3,956",4.3,542,108MP (OIS) + 13MP + 2MP | 50MP Front Camera,"₹23,999",14%,1 Year,108,,50
+730,SAMSUNG Galaxy F62,Laser Green,6 GB,128 GB,,4.2,"92,036",4.2,995,64MP + 12MP + 5MP + 5MP | 32MP Front Camera,"₹23,999",20%,1 Year,64,12,32
+731,Xiaomi 11i 5G,Purple Mist,8 GB,128 GB,,4.2,"22,781",4.2,731,108MP Rear Camera | 16MP Front Camera,"₹23,999",25%,1 Year,108,,16
+732,realme 13 Pro 5G,Monet Purple,8 GB,256 GB,5200 mAh,4.4,"7,071",4.4,509,50MP + 8MP + 2MP | 32MP Front Camera,"₹23,999",22%,1 Year,50,8,32
+733,Nothing Phone,2a) 5G (Blue,8 GB,128 GB,5000 mAh,4.4,"98,184",4.4,939,50MP (OIS) + 50MP | 32MP Front Camera,"₹23,999",97%,1 Year,50,,32
+734,POCO F6 5G,Titanium,12 GB,256 GB,5000 mAh,4.3,"7,060",4.3,701,50MP (OIS) + 8MP | 20MP Front Camera,"₹23,999",33%,1 Year,50,,20
+735,realme X7 5G,Space Silver,8 GB,128 GB,4310 mAh,4.3,"25,394",4.3,386,64MP + 8MP + 2MP | 16MP Front Camera,,,1 Year,64,8,16
+736,realme 14 Pro Lite 5G,Glass Purple,8 GB,256 GB,5200 mAh,4.4,,4.4,16,50MP + 8MP + 2MP | 32MP Front Camera,"₹23,999",14%,1 Year,50,8,32
+737,realme 13 Pro 5G,Monet Gold,8 GB,256 GB,5200 mAh,4.4,"7,071",4.4,509,50MP + 8MP + 2MP | 32MP Front Camera,"₹23,999",22%,1 Year,50,8,32
+738,realme 14 Pro Lite 5G,Glass Gold,8 GB,256 GB,5200 mAh,4.4,,4.4,16,50MP + 8MP + 2MP | 32MP Front Camera,"₹23,999",14%,1 Year,50,8,32
+739,Nothing Phone,2a) 5G (Black,8 GB,128 GB,5000 mAh,4.4,"98,184",4.4,939,50MP (OIS) + 50MP | 32MP Front Camera,"₹23,999",97%,1 Year,50,,32
+740,realme X7 5G,Nebula,8 GB,128 GB,4310 mAh,4.3,"25,394",4.3,386,64MP + 8MP + 2MP | 16MP Front Camera,,,1 Year,64,8,16
+741,Nothing Phone,2a) 5G (White,8 GB,128 GB,5000 mAh,4.4,"98,184",4.4,939,50MP (OIS) + 50MP | 32MP Front Camera,"₹23,999",97%,1 Year,50,,32
+742,POCO X6 5G,Mirror Black,12 GB,256 GB,5100 mAh,4.3,"12,632",4.3,110,64MP + 8MP + 2MP | 16MP Front Camera,"₹23,999",11%,1 Year,64,8,16
+743,realme GT 6T 5G,Fluid Silver,8 GB,128 GB,5500 mAh,4.5,"2,888",4.5,220,50MP Rear Camera,"₹23,999",29%,1 Year,50,,
+744,vivo T4 5G,Phantom Grey,8 GB,256 GB,7300 mAh,4.5,"16,934",4.5,963,50MP (OIS) + 2MP | 32MP Front Camera,"₹23,999",14%,1 Year,50,,32
+745,vivo Y300 Plus 5G,Silk Black,8 GB,128 GB,5000 mAh,4.3,,4.3,17,50MP + 2MP | 32MP Front Camera,"₹23,999",20%,1 Year,50,2,32
+746,SAMSUNG Galaxy F55 5G,Raisin Black,8 GB,256 GB,5000 mAh,,,,212,50MP + 8MP + 2MP | 50MP Front Camera,"₹23,999",25%,1 Year,50,8,50
+747,POCO X6 5G,Snowstorm White,12 GB,256 GB,5100 mAh,4.3,"12,632",4.3,110,64MP + 8MP + 2MP | 16MP Front Camera,"₹23,999",11%,1 Year,64,8,16
+748,vivo T4 5G,Emerald Blaze,8 GB,256 GB,7300 mAh,4.5,"16,934",4.5,963,50MP (OIS) + 2MP | 32MP Front Camera,"₹23,999",14%,1 Year,50,,32
+749,vivo T2 Pro 5G,Dune Gold,8 GB,256 GB,4600 mAh,4.5,,4.5,204,64MP + 2MP | 16MP Front Camera,"₹23,999",14%,1 Year,64,2,16
+750,SAMSUNG Galaxy F62,Laser Grey,6 GB,128 GB,,4.2,"92,036",4.2,995,64MP + 12MP + 5MP + 5MP | 32MP Front Camera,"₹23,999",20%,1 Year,64,12,32
+751,vivo Y300 Plus 5G,Silk Green,8 GB,128 GB,5000 mAh,4.3,,4.3,17,50MP + 2MP | 32MP Front Camera,"₹23,999",20%,1 Year,50,2,32
+752,realme GT Master Edition,Luna White,8 GB,128 GB,4300 mAh,4.4,"63,808",4.4,648,64MP + 8MP + 2MP | 32MP Front Camera,"₹23,999",20%,1 Year,64,8,32
+753,vivo T2 Pro 5G,New Moon Black,8 GB,256 GB,4600 mAh,4.5,,4.5,204,64MP + 2MP | 16MP Front Camera,"₹23,999",14%,1 Year,64,2,16
+754,POCO X6 5G,Skyline Blue,12 GB,256 GB,5100 mAh,4.3,"12,632",4.3,110,64MP + 8MP + 2MP | 16MP Front Camera,"₹23,999",11%,1 Year,64,8,16
+755,Xiaomi 11i Hypercharge 5G,Stealth Black,6 GB,128 GB,,4.2,"12,649",4.2,202,108MP + 8MP + 2MP | 16MP Front Camera,"₹23,999",25%,1 Year,108,8,16
+756,OnePlus Nord CE3 5G,Aqua Surge,8 GB,128 GB,5000 mAh,4.4,"12,558",4.4,949,50MP Rear Camera | 16MP Front Camera,"₹23,999",11%,1 Year,50,,16
+757,REDMI Note 14 Pro 5G,Black,8 GB,128 GB,5500 mAh,4.4,"3,191",4.4,266,50MP + 8MP + 2MP | 20MP Front Camera,"₹23,999",17%,1 Year,50,8,20
+758,Tecno Camon 30 5G,Basaltic Dark,12 GB,512 GB,5000 mAh,494,,494,10,50MP + 2MP | 50MP Front Camera,"₹23,999",27%,1 Year,50,2,50
+759,SAMSUNG Galaxy F62,Laser Blue,6 GB,128 GB,,4.2,"92,036",4.2,995,64MP + 12MP + 5MP + 5MP | 32MP Front Camera,"₹23,999",20%,1 Year,64,12,32
+760,REDMI Note 14 Pro 5G,Ivy Green,8 GB,128 GB,5500 mAh,4.4,"3,191",4.4,266,50MP + 8MP + 2MP | 20MP Front Camera,"₹23,999",17%,1 Year,50,8,20
+761,OPPO F29 5G,Solid Purple,8 GB,128 GB,6500 mAh,4.3,"1,105",4.3,84,50MP + 2MP | 16MP Front Camera,"₹23,999",17%,1 Year,50,2,16
+762,Tecno Camon 30 5G,Uyuni Salt White,12 GB,512 GB,5000 mAh,494,,494,10,50MP + 2MP | 50MP Front Camera,"₹23,999",27%,1 Year,50,2,50
+763,REDMI Note 14 Pro 5G,Phantom Purple,8 GB,128 GB,5500 mAh,4.4,"3,191",4.4,266,50MP + 8MP + 2MP | 20MP Front Camera,"₹23,999",17%,1 Year,50,8,20
+764,SAMSUNG Galaxy A34 5G,Awesome Lime,8 GB,256 GB,,4.3,"7,092",4.3,562,48MP + 8MP + 5MP | 13MP Front Camera,"₹23,999",39%,,48,8,13
+765,OPPO F25 Pro 5G,Coral Purple,8 GB,128 GB,5000 mAh,4.3,"6,699",4.3,490,64MP + 8MP + 2MP | 32MP Front Camera,"₹23,999",17%,1 Year,64,8,32
+766,POCO X7 Pro 5G,Obsidian Black,8 GB,256 GB,6550 mAh,4.3,"6,216",4.3,983,50MP + 8MP | 20MP Front Camera,"₹23,999",25%,1 Year,50,8,20
+767,vivo V40e 5G,Mint Green,8 GB,128 GB,5500 mAh,4.4,"8,526",4.4,592,50MP + 8MP | 50MP Front Camera,"₹23,995",29%,1 Year,50,8,50
+768,realme GT NEO 2,NEO Green,8 GB,128 GB,5000 mAh,4.4,"18,467",4.4,456,64MP + 8MP + 2MP | 16MP Front Camera,"₹23,990",31%,1 Year,64,8,16
+769,realme GT NEO 2,NEO Black,8 GB,128 GB,5000 mAh,4.4,"18,467",4.4,456,64MP + 8MP + 2MP | 16MP Front Camera,"₹23,990",31%,1 Year,64,8,16
+770,realme X50 Pro,Moss Green,8 GB,128 GB,4200 mAh,4.4,"8,704",4.4,226,64MP + 12MP + 8MP + 2MP | 32MP + 8MP Dual Front Camera,"₹23,990",44%,1 Year,64,12,
+771,realme NARZO 80 Pro 5G,Nitro Orange,12 GB,256 GB,6000 mAh,4.6,,4.6,2,50MP Rear Camera,"₹23,990",14%,1 Year,50,,
+772,IQOO Z9S 5G,Onyx Green,12 GB,256 GB,5500 mAh,4.4,,4.4,15,50MP + 50MP | 2MP Dual Front Camera,"₹23,989",20%,,50,50,
+773,IQOO Z10 5G,Silver,8 GB,256 GB,7300 mAh,4.4,,4.4,28,50MP Rear Camera,"₹23,950",97%,1 Year,50,,
+774,IQOO Z10 5G,Black,8 GB,256 GB,7300 mAh,4.4,,4.4,28,50MP Rear Camera,"₹23,857",14%,1 Year,50,,
+775,vivo V40e 5G,Royal Bronze,8 GB,128 GB,5500 mAh,4.4,"8,526",4.4,592,50MP + 8MP | 50MP Front Camera,"₹23,849",29%,1 Year,50,8,50
+776,vivo V40e 5G,Royal Bronze,8 GB,128 GB,5500 mAh,4.4,"8,526",4.4,592,50MP + 8MP | 50MP Front Camera,"₹23,845",29%,1 Year,50,8,50
+777,SAMSUNG Galaxy A33,Awesome Peach,6 GB,128 GB,,4.1,"2,137",4.1,192,48MP + 8MP + 5MP + 2MP | 13MP Front Camera,"₹23,799",27%,1 Year,48,8,13
+778,vivo V25 Pro 5G,Sailing Blue,8 GB,128 GB,4830 mAh,4.3,"7,648",4.3,931,64MP + 8MP + 2MP | 32MP Front Camera,"₹23,700",34%,1 Year,64,8,32
+779,REDMI Note 13 Pro 5G,Midnight Black,12 GB,256 GB,5100 mAh,4.3,"9,873",4.3,734,200MP (OIS) + 8MP + 2MP | 16MP Front Camera,"₹23,677",28%,1 Year,200,,16
+780,REDMI Note 12 Pro 5G,Glacier Blue,8 GB,256 GB,,4.2,"22,501",4.2,875,50MP (OIS) + 8MP + 2MP | 16MP Front Camera,"₹23,499",26%,1 Year,50,,16
+781,REDMI Note 12 Pro 5G,Onyx Black,8 GB,256 GB,,4.2,"22,501",4.2,875,50MP (OIS) + 8MP + 2MP | 16MP Front Camera,"₹23,499",26%,1 Year,50,,16
+782,realme GT Neo 3,Asphalt Black,8 GB,256 GB,,4.2,"1,797",4.2,227,50MP + 8MP + 2MP | 16MP Front Camera,"₹23,449",44%,1 Year,50,8,16
+783,OnePlus Nord CE4,Celadon Marble,8 GB,256 GB,5500 mAh,4.4,"22,246",4.4,254,50MP Rear Camera,"₹23,399",13%,1 Year,50,,
+784,realme Narzo 80 Pro 5G,Speed Silver,12 GB,256 GB,6000 mAh,4.6,,4.6,2,50MP Rear Camera,"₹23,339",16%,1 Year,50,,
+785,MOTOROLA Edge 60 Fusion 5G,PANTONE Slipstream,8 GB,256 GB,5500 mAh,4.6,"19,384",4.6,129,50MP + 13MP | 32MP Front Camera,"₹22,999",11%,1 Year,50,13,32
+786,realme 13+ 5G,Speed Green,8 GB,128 GB,5000 mAh,4.3,"3,321",4.3,295,50MP + 2MP | 16MP Front Camera,"₹22,999",11%,1 Year,50,2,16
+787,realme 12 Pro+ 5G,Submarine Blue,8 GB,256 GB,5000 mAh,4.4,"26,979",4.4,114,50MP + 8MP + 64MP | 32MP Front Camera,"₹22,999",36%,1 Year,50,8,32
+788,REDMI Note 10 Pro Max,Dark Nebula,6 GB,128 GB,5020 mAh,4.3,"18,034",4.3,302,108MP Rear Camera | 16MP Front Camera,,,1 Year,108,,16
+789,realme 13+ 5G,Victory Gold,8 GB,128 GB,5000 mAh,4.3,"3,321",4.3,295,50MP + 2MP | 16MP Front Camera,"₹22,999",11%,1 Year,50,2,16
+790,Redmi K20,Flame Red,6 GB,64 GB,,4.5,"44,989",4.5,662,48MP + 13MP + 8MP | 20MP Front Camera,,,1 Year,48,13,20
+791,realme 9,Sunburst Gold,8 GB,128 GB,,4.4,"28,476",4.4,025,108MP + 8MP + 2MP | 16MP Front Camera,,,1 Year,108,8,16
+792,vivo V25 Pro 5G,Sailing Blue,8 GB,128 GB,4830 mAh,4.3,"7,648",4.3,931,64MP + 8MP + 2MP | 32MP Front Camera,"₹23,700",34%,1 Year,64,8,32
+793,REDMI Note 13 Pro 5G,Midnight Black,12 GB,256 GB,5100 mAh,4.3,"9,873",4.3,734,200MP (OIS) + 8MP + 2MP | 16MP Front Camera,"₹23,677",28%,1 Year,200,,16
+794,REDMI Note 12 Pro 5G,Onyx Black,8 GB,256 GB,,4.2,"22,501",4.2,875,50MP (OIS) + 8MP + 2MP | 16MP Front Camera,"₹23,499",26%,1 Year,50,,16
+795,REDMI Note 12 Pro 5G,Glacier Blue,8 GB,256 GB,,4.2,"22,501",4.2,875,50MP (OIS) + 8MP + 2MP | 16MP Front Camera,"₹23,499",26%,1 Year,50,,16
+796,realme GT Neo 3,Asphalt Black,8 GB,256 GB,,4.2,"1,797",4.2,227,50MP + 8MP + 2MP | 16MP Front Camera,"₹23,449",44%,1 Year,50,8,16
+797,OnePlus Nord CE4,Celadon Marble,8 GB,256 GB,5500 mAh,4.4,"22,246",4.4,254,50MP Rear Camera,"₹23,399",13%,1 Year,50,,
+798,realme 9 Pro+ 5G,Aurora Green,8 GB,256 GB,,4.4,"36,082",4.4,803,50MP + 8MP + 2MP | 16MP Front Camera,"₹22,999",28%,1 Year,50,8,16
+799,MOTOROLA Edge 60 Fusion 5G,PANTONE Amazonite,8 GB,256 GB,5500 mAh,4.6,"19,384",4.6,129,50MP + 13MP | 32MP Front Camera,"₹22,999",11%,1 Year,50,13,32
+800,SAMSUNG Galaxy A26 5G,Awesome White,8 GB,128 GB,5000 mAh,4.1,,4.1,18,50MP + 8MP | 13MP Front Camera,"₹22,999",17%,1 Year,50,8,13
+801,REDMI Note 10 Pro Max,Dark Night,6 GB,128 GB,5020 mAh,4.3,"18,034",4.3,302,108MP Rear Camera | 16MP Front Camera,,,1 Year,108,,16
+802,SAMSUNG Galaxy A26 5G,Awesome Mint,8 GB,128 GB,5000 mAh,4.1,,4.1,18,50MP + 8MP | 13MP Front Camera,"₹22,999",17%,1 Year,50,8,13
+803,realme 7 Pro,Mirror Silver,8 GB,128 GB,,4.4,"55,554",4.4,396,64MP + 8MP + 2MP + 2MP | 32MP Front Camera,,,1 Year,64,8,32
+804,SAMSUNG Galaxy A26 5G,Awesome Black,8 GB,128 GB,5000 mAh,4.1,,4.1,18,50MP + 8MP | 13MP Front Camera,"₹22,999",17%,1 Year,50,8,13
+805,REDMI Note 10 Pro Max,Glacial Blue,6 GB,128 GB,5020 mAh,4.3,"18,034",4.3,302,108MP Rear Camera | 16MP Front Camera,,,1 Year,108,,16
+806,SAMSUNG Galaxy A35 5G,Awesome Navy,8 GB,128 GB,5000 mAh,4.3,"11,564",4.3,825,50MP + 8MP + 5MP | 13MP Front Camera,"₹22,999",32%,1 Year,50,8,13
+807,realme 9 Pro+ 5G,Midnight Black,8 GB,256 GB,,4.4,"36,082",4.4,803,50MP + 8MP + 2MP | 16MP Front Camera,"₹22,999",28%,1 Year,50,8,16
+808,SAMSUNG Galaxy F23 5G,Forest Green,4 GB,128 GB,,4.2,"49,305",4.2,578,50MP + 8MP + 2MP | 8MP Front Camera,,,1 Year,50,8,8
+809,Motorola Edge 40 Neo,Soothing Sea,8 GB,128 GB,5000 mAh,4.3,"59,816",4.3,072,50MP + 13MP | 32MP Front Camera,"₹22,999",17%,1 Year,50,13,32
+810,MOTOROLA Edge 60 Stylus,PANTONE Surf the Web,8 GB,256 GB,5000 mAh,4.3,"4,955",4.3,457,50MP + 13MP | 32MP Front Camera,"₹22,999",20%,1 Year,50,13,32
+811,Motorola Edge 40 Neo,Caneel Bay,8 GB,128 GB,5000 mAh,4.3,"59,816",4.3,072,50MP + 13MP | 32MP Front Camera,"₹22,999",17%,1 Year,50,13,32
+812,Redmi K20,Flame Red,6 GB,64 GB,,4.5,"44,989",4.5,662,48MP + 13MP + 8MP | 20MP Front Camera,,,1 Year,48,13,20
+813,SAMSUNG Galaxy F23 5G,Copper Blush,4 GB,128 GB,,4.2,"49,305",4.2,578,50MP + 8MP + 2MP | 8MP Front Camera,,,1 Year,50,8,8
+814,realme 13+ 5G,Speed Green,8 GB,128 GB,5000 mAh,4.3,"3,321",4.3,295,50MP + 2MP | 16MP Front Camera,"₹22,999",11%,1 Year,50,2,16
+815,realme 12 Pro+ 5G,Submarine Blue,8 GB,256 GB,5000 mAh,4.4,"26,979",4.4,114,50MP + 8MP + 64MP | 32MP Front Camera,"₹22,999",36%,1 Year,50,8,32
+816,realme 9,Sunburst Gold,8 GB,128 GB,,4.4,"28,476",4.4,025,108MP + 8MP + 2MP | 16MP Front Camera,,,1 Year,108,8,16
+817,realme 9,Meteor Black,8 GB,128 GB,,4.4,"28,476",4.4,025,108MP + 8MP + 2MP | 16MP Front Camera,,,1 Year,108,8,16
+818,Infinix Zero 30 5G,Golden Hour,12 GB,256 GB,,4.3,"13,398",4.3,813,108MP (OIS) + 13MP + 2MP | 50MP Front Camera,"₹22,999",23%,1 Year,108,,50
+819,11 Lite NE,Jazz Blue,8 GB,128 GB,4250 mAh,4.1,,4.1,10,64MP Rear Camera,"₹22,999",28%,1 Year,64,,
+820,realme 13+ 5G,Victory Gold,8 GB,128 GB,5000 mAh,4.3,"3,321",4.3,295,50MP + 2MP | 16MP Front Camera,"₹22,999",11%,1 Year,50,2,16
+821,MOTOROLA Edge 60 Fusion 5G,PANTONE Slipstream,8 GB,256 GB,5500 mAh,4.6,"19,384",4.6,129,50MP + 13MP | 32MP Front Camera,"₹22,999",11%,1 Year,50,13,32
+822,REDMI Note 10 Pro Max,Dark Nebula,6 GB,128 GB,5020 mAh,4.3,"18,034",4.3,302,108MP Rear Camera | 16MP Front Camera,,,1 Year,108,,16
+823,REDMI K50i 5G,Stealth Black,6 GB,128 GB,5080 mAh,4.2,"4,058",4.2,414,64MP + 8MP + 2MP | 16MP Front Camera,"₹22,999",28%,1 Year,64,8,16
+824,SAMSUNG Galaxy F42 5G,Matte Aqua,8 GB,128 GB,,4.1,"6,505",4.1,600,64MP + 5MP + 2MP | 8MP Front Camera,"₹22,999",11%,1 Year,64,5,8
+825,OPPO F21s Pro 5G,Starlight Black,8 GB,128 GB,4500 mAh,4.2,"1,963",4.2,111,64MP + 2MP + 2MP | 16MP + 2MP Dual Front Camera,"₹22,999",25%,,64,2,
+826,SAMSUNG Galaxy F42 5G,Matte Black,8 GB,128 GB,,4.1,"6,505",4.1,600,64MP + 5MP + 2MP | 8MP Front Camera,"₹22,999",11%,1 Year,64,5,8
+827,MOTOROLA Edge 60 Fusion 5G,PANTONE Zephyr,8 GB,256 GB,5500 mAh,4.6,"19,384",4.6,129,50MP + 13MP | 32MP Front Camera,"₹22,999",11%,1 Year,50,13,32
+828,realme 12 Pro 5G,Submarine Blue,12 GB,256 GB,5000 mAh,4.4,"13,002",4.4,830,50MP + 8MP + 32MP | 16MP Front Camera,"₹22,999",32%,1 Year,50,8,16
+829,MOTOROLA Edge 60 Stylus,PANTONE Gibraltar Sea,8 GB,256 GB,5000 mAh,4.3,"4,955",4.3,457,50MP + 13MP | 32MP Front Camera,"₹22,999",20%,1 Year,50,13,32
+830,realme 12 Pro 5G,Navigator Beige,12 GB,256 GB,5000 mAh,4.4,"13,002",4.4,830,50MP + 8MP + 32MP | 16MP Front Camera,"₹22,999",32%,1 Year,50,8,16
+831,SAMSUNG Galaxy A26 5G,Awesome Peach,8 GB,128 GB,5000 mAh,4.1,,4.1,18,50MP + 8MP | 13MP Front Camera,"₹22,999",17%,1 Year,50,8,13
+832,Xiaomi 11T Pro 5G Hyperphone,Meteorite Black,8 GB,128 GB,5000 mAh,492,,492,97,108MP Rear Camera,"₹22,999",46%,,108,,
+833,vivo T3 Pro 5G,Emerald Green,8 GB,128 GB,5500 mAh,4.5,"75,496",4.5,878,50MP + 8MP | 16MP Front Camera,"₹22,999",23%,1 Year,50,8,16
+834,vivo Y300 5G,Phantom Purple,8 GB,256 GB,5000 mAh,4.4,"2,325",4.4,151,50MP + 2MP | 32MP Front Camera,"₹22,999",20%,1 Year,50,2,32
+835,SAMSUNG Galaxy A35 5G,Awesome Iceblue,8 GB,128 GB,5000 mAh,4.3,"11,564",4.3,825,50MP + 8MP + 5MP | 13MP Front Camera,"₹22,999",32%,1 Year,50,8,13
+836,vivo Y300 5G,Titanium Silver,8 GB,256 GB,5000 mAh,4.4,"2,325",4.4,151,50MP + 2MP | 32MP Front Camera,"₹22,999",20%,1 Year,50,2,32
+837,Motorola Edge 40 Neo,Black Beauty,8 GB,128 GB,5000 mAh,4.3,"59,816",4.3,072,50MP + 13MP | 32MP Front Camera,"₹22,999",17%,1 Year,50,13,32
+838,vivo T3 Pro 5G,Sandstone Orange,8 GB,128 GB,5500 mAh,4.5,"75,496",4.5,878,50MP + 8MP | 16MP Front Camera,"₹22,999",23%,1 Year,50,8,16
+839,realme P3 Pro 5G,Nebula Glow,12 GB,256 GB,6000 mAh,4.4,,4.4,81,50MP + 2MP | 16MP Front Camera,"₹22,999",30%,1 Year,50,2,16
