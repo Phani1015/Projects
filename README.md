@@ -1,2 +1,2 @@
-# Projects
-Data Analysis 
+# Exploratory Data Analysis
+
